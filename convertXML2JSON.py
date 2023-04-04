@@ -4,7 +4,8 @@ import json
 
 def convert(XMLdata):
 
-    orderedDirct = xmltodict.parse(XMLdata)
-    jsonData = json.dumps(orderedDirct, sort_keys=True, indent=4)
+    orderedDirct = xmltodict.parse(XMLdata, force_cdata=True)
+    jsonData = json.dumps(orderedDirct, ensure_ascii=False,
+                          sort_keys=True, indent=4)
 
     return jsonData

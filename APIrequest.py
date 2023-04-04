@@ -1,5 +1,7 @@
 import requests
-import fectchFromAPI
+import json
+import os
+# functions
 
 requestHeader = {
     "Content-Type": "application/json",
@@ -8,10 +10,18 @@ requestHeader = {
 }
 
 
+def saveData(keyword, fetchData):
+    # save data fectched from API to file
+    os.chdir("../LandsDepartment/data")
+    data = json.dumps(fetchData, ensure_ascii=False, sort_keys=True, indent=4)
+    with open(f"{keyword}.json", "w") as output:
+        output.write(data)
+
+
 def requestAPI(keyword):
 
     apiURL = f"https://www.map.gov.hk/gih-ws2/search?keyword={keyword}#0"
     response = requests.get(apiURL, headers=requestHeader)
-    fetchData = str(response.json())
-    print(fetchData)
-    fectchFromAPI.saveData(keyword, fetchData)
+    fetchData = response.json()
+    # save fetchData
+    saveData(keyword, fetchData)
