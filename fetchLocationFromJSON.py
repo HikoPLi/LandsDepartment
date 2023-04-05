@@ -3,12 +3,23 @@ from re import findall
 
 
 def findAll(jsonFile):
-    jsonObject = json.loads(str(jsonFile))
-    english_name = jsonObject['ename']
-    chinese_name = jsonObject['cname']
-    east = jsonObject['easting']
-    north = jsonObject['northing']
-    string_address = f"{east},{north}"
+    jsonObject = json.load(jsonFile)
+    resultAmount = len(jsonObject)
+
+    i = 0
+    while i < resultAmount:
+
+        english_name = jsonObject[i]['ename']
+        chinese_name = jsonObject[i]['cname']
+        east = jsonObject[i]['easting']
+        north = jsonObject[i]['northing']
+        string_address = f"{east},{north}"
+        i = i + 1
+
+        print(string_address, english_name, chinese_name)
+
+        if i == resultAmount:
+            break
 
     return string_address, english_name, chinese_name
 
@@ -18,7 +29,7 @@ def location(keyword):
     with open(f"{keyword}.json") as JSONfile:
 
         try:
-            print(findAll(json.load(JSONfile)))
+            findAll(JSONfile)
 
         except json.JSONDecodeError as e:
 
