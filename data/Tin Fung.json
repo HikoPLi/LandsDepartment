@@ -1,0 +1,47 @@
+[
+    {
+        "caddress": "偉智里   3號",
+        "cdescription": null,
+        "cname": "田豐樓",
+        "eaddress": "3 WAI CHI LANE  ",
+        "easting": 835290.0,
+        "edescription": null,
+        "ename": "Tin Fung House",
+        "faciType": null,
+        "id": "1108224461",
+        "nameStatus": "E",
+        "northing": 821737.0,
+        "score": 479.8416748046875,
+        "type": "B"
+    },
+    {
+        "caddress": "黃竹坑道   63號",
+        "cdescription": null,
+        "cname": "天豐工業大廈",
+        "eaddress": "63 WONG CHUK HANG ROAD  ",
+        "easting": 835435.0,
+        "edescription": null,
+        "ename": "Tin Fung Industrial Mansion",
+        "faciType": null,
+        "id": "1103136774",
+        "nameStatus": "E",
+        "northing": 812353.0,
+        "score": 438.1835021972656,
+        "type": "B"
+    },
+    {
+        "caddress": "新界元朗錦田錦田逢吉鄉公廁",
+        "cdescription": null,
+        "cname": "錦田逢吉鄉公廁",
+        "eaddress": "Kam Tin Fung Kut Heung Public Toilet, Kam Tin, Yuen Long, NT",
+        "easting": 823664.0,
+        "edescription": null,
+        "ename": "Kam Tin Fung Kut Heung Public Toilet",
+        "faciType": "TOI",
+        "id": "562446",
+        "nameStatus": "E",
+        "northing": 835382.0,
+        "score": 80.47700500488281,
+        "type": "F"
+    }
+]

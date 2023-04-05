@@ -1,0 +1,47 @@
+[
+    {
+        "caddress": "太富街   2-4號",
+        "cdescription": null,
+        "cname": "小茅舍",
+        "eaddress": "2-4 TAI FOO STREET  ",
+        "easting": 840733.0,
+        "edescription": null,
+        "ename": "Little Hut",
+        "faciType": null,
+        "id": "1103124904",
+        "nameStatus": "E",
+        "northing": 815989.0,
+        "score": 55.77088165283203,
+        "type": "B"
+    },
+    {
+        "caddress": "  汀九 55-56號",
+        "cdescription": null,
+        "cname": "沃雲苑",
+        "eaddress": "55-56   TING KAU",
+        "easting": 826244.0,
+        "edescription": null,
+        "ename": "Cathine & Sam's Hut",
+        "faciType": null,
+        "id": "1100006632",
+        "nameStatus": "E",
+        "northing": 825636.0,
+        "score": 50.468833923339844,
+        "type": "B"
+    },
+    {
+        "caddress": "新界元朗牛潭尾",
+        "cdescription": null,
+        "cname": "牛潭尾西422號石屋外垃圾站",
+        "eaddress": "Ngau Tam Mei, Yuen Long, NT",
+        "easting": 824939.704,
+        "edescription": null,
+        "ename": "Ngau Tam Mei West o/s 422 stone hut RCP",
+        "faciType": "RCP",
+        "id": "552388",
+        "nameStatus": "E",
+        "northing": 837102.979,
+        "score": 3.030311346054077,
+        "type": "F"
+    }
+]

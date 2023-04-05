@@ -1,0 +1,47 @@
+[
+    {
+        "caddress": "新界屯門新墟井頭上村87A",
+        "cdescription": null,
+        "cname": "鄉師自然學校",
+        "eaddress": "No. 87A, Tseng Tau Sheung Tsuen, San Hui, Tuen Mun, NT",
+        "easting": 815933.87001753,
+        "edescription": null,
+        "ename": "Gaia School",
+        "faciType": "SE",
+        "id": "990146742",
+        "nameStatus": "E",
+        "northing": 828532.90401727,
+        "score": 55.77088165283203,
+        "type": "F"
+    },
+    {
+        "caddress": "  井頭上村北 87A號",
+        "cdescription": null,
+        "cname": "鄉師自然學校",
+        "eaddress": "87A   TSENG TAU SHEUNG TSUEN NORTH",
+        "easting": 815902.0,
+        "edescription": null,
+        "ename": "RTC GAIA SCHOOL",
+        "faciType": null,
+        "id": "1503020369",
+        "nameStatus": "E",
+        "northing": 828530.0,
+        "score": 50.468833923339844,
+        "type": "S"
+    },
+    {
+        "caddress": "中環金鐘道88號太古廣場",
+        "cdescription": null,
+        "cname": "已登記的WiFi 熱點: Y5ZONE Limited (APID 08207)",
+        "eaddress": "Block sitting area outside Grappa's Ristorante, Area outside Shop 132,Pacific Place, 88 Queensway",
+        "easting": 835082.0,
+        "edescription": null,
+        "ename": "Registered WiFi Access Points: Y5ZONE Limited (APID 08207)",
+        "faciType": "WIFI",
+        "id": "990268758",
+        "nameStatus": "E",
+        "northing": 815440.0,
+        "score": 0.7239583730697632,
+        "type": "F"
+    }
+]

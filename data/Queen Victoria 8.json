@@ -1,0 +1,47 @@
+[
+    {
+        "caddress": "萬宜里   17-23號|域多利皇后街   5-8號",
+        "cdescription": null,
+        "cname": "鴻基大廈",
+        "eaddress": "17-23 MAN YEE LANE|5-8 QUEEN VICTORIA STREET",
+        "easting": 834102.0,
+        "edescription": null,
+        "ename": "Hung Kei Mansion",
+        "faciType": null,
+        "id": "1103124040",
+        "nameStatus": "E",
+        "northing": 816086.0,
+        "score": 29.73130989074707,
+        "type": "B"
+    },
+    {
+        "caddress": "中環萬宜里17-23號鴻基大廈地下B店759 Kawaiiland",
+        "cdescription": null,
+        "cname": "已登記的WiFi 熱點: Hong Kong Telecommunications (HKT) Limited (APID 05099)",
+        "eaddress": "Unit Shop B, G/F, Block 759 Kawaiiland, Hung Kei Mansion, 5-8 Queen Victoria Street",
+        "easting": 834102.0,
+        "edescription": null,
+        "ename": "Registered WiFi Access Points: Hong Kong Telecommunications (HKT) Limited (APID 05099)",
+        "faciType": "WIFI",
+        "id": "990262516",
+        "nameStatus": "E",
+        "northing": 816086.0,
+        "score": 1.561334490776062,
+        "type": "F"
+    },
+    {
+        "caddress": "中環萬宜里17-23號鴻基大廈地下A及E店759",
+        "cdescription": null,
+        "cname": "已登記的WiFi 熱點: Hong Kong Telecommunications (HKT) Limited (APID 05100)",
+        "eaddress": "Unit Shop A&E, G/F, Block 759 Store, Hung Kei Mansion, 5-8 Queen Victoria Street",
+        "easting": 834102.0,
+        "edescription": null,
+        "ename": "Registered WiFi Access Points: Hong Kong Telecommunications (HKT) Limited (APID 05100)",
+        "faciType": "WIFI",
+        "id": "990262518",
+        "nameStatus": "E",
+        "northing": 816086.0,
+        "score": 1.5061153173446655,
+        "type": "F"
+    }
+]

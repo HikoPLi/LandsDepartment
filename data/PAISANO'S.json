@@ -1,0 +1,47 @@
+[
+    {
+        "caddress": "新安街   16號",
+        "cdescription": null,
+        "cname": "百勝工業大廈",
+        "eaddress": "16 SAN ON STREET  ",
+        "easting": 815053.0,
+        "edescription": null,
+        "ename": "Pahsang Industrial Building",
+        "faciType": null,
+        "id": "1108525158",
+        "nameStatus": "E",
+        "northing": 828087.0,
+        "score": 9.303973197937012,
+        "type": "B"
+    },
+    {
+        "caddress": "香港銅鑼灣駱克道492號順禧銅鑼灣中心13字樓1-4室",
+        "cdescription": null,
+        "cname": "VIDA MIA PIANO LOUNGE",
+        "eaddress": "Flat 1-4, 13/F, Shun Hei Causeway Bay Centre,492 Lockhart Road,Causeway Bay, Hong Kong",
+        "easting": 836891.1,
+        "edescription": null,
+        "ename": "VIDA MIA PIANO LOUNGE",
+        "faciType": "CLUB",
+        "id": "99083160",
+        "nameStatus": "E",
+        "northing": 815736.8,
+        "score": 7.137107849121094,
+        "type": "F"
+    },
+    {
+        "caddress": "新界屯門新安街16號百勝工業大廈2樓A1-16室",
+        "cdescription": null,
+        "cname": "小可能有限公司",
+        "eaddress": "Flat A1-16, 2/F Paksang Ind. Bldg., 16 San On Street, Tuen Mun, NT",
+        "easting": 815036.03351733,
+        "edescription": null,
+        "ename": "Little Possible Limited",
+        "faciType": "SE",
+        "id": "990147020",
+        "nameStatus": "E",
+        "northing": 828103.84147959,
+        "score": 5.171464443206787,
+        "type": "F"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "caddress": "香港中環士丹利街66-68號佳德商業大廈1字樓",
+        "cdescription": null,
+        "cname": "瘋狂小面",
+        "eaddress": "1/F, Kai Tak Commercial Building, 66-68 Stanley Street, Central, Hong Kong",
+        "easting": 833991.3,
+        "edescription": null,
+        "ename": "CRAZY NOODLES CENTRAL",
+        "faciType": "CLUB",
+        "id": "99082604",
+        "nameStatus": "E",
+        "northing": 816021.1,
+        "score": 54.56855010986328,
+        "type": "F"
+    },
+    {
+        "caddress": "",
+        "cdescription": null,
+        "cname": "前馬鞍山礦場",
+        "eaddress": "",
+        "easting": 843110.0,
+        "edescription": null,
+        "ename": "FORMER MA ON SHAN IRON MINES",
+        "faciType": null,
+        "id": "52976",
+        "nameStatus": "E",
+        "northing": 829475.0,
+        "score": 50.21369171142578,
+        "type": "PL"
+    },
+    {
+        "caddress": "",
+        "cdescription": null,
+        "cname": "馬鞍山礦場（廢棄）",
+        "eaddress": "",
+        "easting": 843110.0,
+        "edescription": null,
+        "ename": "MA ON SHAN IRON MINES (DISUSED)",
+        "faciType": null,
+        "id": "609210",
+        "nameStatus": "E",
+        "northing": 829475.0,
+        "score": 50.21369171142578,
+        "type": "PL"
+    },
+    {
+        "caddress": "新界元朗錦田",
+        "cdescription": null,
+        "cname": "吉慶圍圍牆、鐵門及濠溝",
+        "eaddress": "Kam Tin, Yuen Long, NT",
+        "easting": 824645.0,
+        "edescription": null,
+        "ename": "Kat Hing Wai Enclosing Walls, Iron Gates and Moat",
+        "faciType": "SIG",
+        "id": "546399",
+        "nameStatus": "E",
+        "northing": 833320.0,
+        "score": 22.496274948120117,
+        "type": "F"
+    }
+]

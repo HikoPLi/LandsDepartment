@@ -1,0 +1,62 @@
+[
+    {
+        "caddress": "九龍尖沙咀諾士佛臺1號諾士佛臺一號11-12字樓",
+        "cdescription": null,
+        "cname": "JOE'S BILLIARDS & BAR",
+        "eaddress": "11/F-12/F, One Knutsford, 1 Knutsford Terrace, Tsim Sha Tsui, Kowloon",
+        "easting": 835881.2,
+        "edescription": null,
+        "ename": "JOE'S BILLIARDS & BAR",
+        "faciType": "CLUB",
+        "id": "99083762",
+        "nameStatus": "E",
+        "northing": 818031.9,
+        "score": 52.09688186645508,
+        "type": "F"
+    },
+    {
+        "caddress": "土瓜灣木廠街11號前座地下",
+        "cdescription": null,
+        "cname": "祖利汽車貿易有限公司",
+        "eaddress": "G/F, Front Block, No. 11, Mok Cheong Street, To Kwa Wan",
+        "easting": 837906.52982811,
+        "edescription": null,
+        "ename": "JOE LEE MOTOR CAR & TRADING CO., LIMITED",
+        "faciType": "RVMW",
+        "id": "990150290",
+        "nameStatus": "E",
+        "northing": 820320.85008195,
+        "score": 37.743980407714844,
+        "type": "F"
+    },
+    {
+        "caddress": "雅息士道   3號",
+        "cdescription": "異國風精品酒店 (現稱)",
+        "cname": "東京酒店 (前稱)",
+        "eaddress": "3 ESSEX CRESCENT  ",
+        "easting": 836329.0,
+        "edescription": null,
+        "ename": "Tokio Hotel (Previous Name)",
+        "faciType": null,
+        "id": "1502005868",
+        "nameStatus": "R",
+        "northing": 821012.0,
+        "score": 23.02798843383789,
+        "type": "S"
+    },
+    {
+        "caddress": "盧押道23號苕林大廈地下Joe Bananas",
+        "cdescription": null,
+        "cname": "已登記的WiFi 熱點: Hong Kong Telecommunications (HKT) Limited (APID 05506)",
+        "eaddress": "G/F, Block Joe Bananas, Shiu Lam Bldg, 23 Luard Rd",
+        "easting": 835715.4,
+        "edescription": null,
+        "ename": "Registered WiFi Access Points: Hong Kong Telecommunications (HKT) Limited (APID 05506)",
+        "faciType": "WIFI",
+        "id": "990263328",
+        "nameStatus": "E",
+        "northing": 815542.6,
+        "score": 1.7206242084503174,
+        "type": "F"
+    }
+]

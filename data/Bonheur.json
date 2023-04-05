@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "公庵路馬田村172A號地下",
+        "cdescription": null,
+        "cname": "卓悅汽車美容",
+        "eaddress": "G/F, No. 172A, Ma Tin Tsuen, Kung Um Road",
+        "easting": 820712.6,
+        "edescription": null,
+        "ename": "BONJOUR CAR",
+        "faciType": "RVMW",
+        "id": "990153058",
+        "nameStatus": "E",
+        "northing": 833316.9,
+        "score": 10.769049644470215,
+        "type": "F"
+    },
+    {
+        "caddress": "橫窩仔街44-50號卓侻大廈東座地下",
+        "cdescription": null,
+        "cname": "友田汽車服務有限公司",
+        "eaddress": "G/F, Block East, Bonjour Building, No. 44-50, Wang Wo Tsai Street",
+        "easting": 830396.14392584,
+        "edescription": null,
+        "ename": "ARITA SPEED SERVICES CO., LIMITED",
+        "faciType": "RVMW",
+        "id": "990152078",
+        "nameStatus": "E",
+        "northing": 825245.58928235,
+        "score": 5.419983386993408,
+        "type": "F"
+    }
+]

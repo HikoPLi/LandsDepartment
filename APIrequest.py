@@ -12,8 +12,8 @@ requestHeader = {
 
 def saveData(keyword, fetchData):
     # save data fectched from API to file
-    os.chdir("../LandsDepartment/data")
     data = json.dumps(fetchData, ensure_ascii=False, sort_keys=True, indent=4)
+    os.chdir("../LandsDepartment/data")
     with open(f"{keyword}.json", "w") as output:
         output.write(data)
 

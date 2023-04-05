@@ -1,0 +1,62 @@
+[
+    {
+        "caddress": "",
+        "cdescription": null,
+        "cname": "印度遊樂會",
+        "eaddress": "",
+        "easting": 837520.0,
+        "edescription": null,
+        "ename": "INDIAN RECREATION CLUB",
+        "faciType": null,
+        "id": "1503015663",
+        "nameStatus": "E",
+        "northing": 815101.0,
+        "score": 62.82496643066406,
+        "type": "S"
+    },
+    {
+        "caddress": "中環蘇豪荷李活道23號金珀苑1樓",
+        "cdescription": null,
+        "cname": "Wi-Fi.HK 熱點位置: Jashan Celebrating Indian Cuisine",
+        "eaddress": "1/F, Amber Lodge, 23 Hollywood Road, SOHO, Central",
+        "easting": 833909.8,
+        "edescription": null,
+        "ename": "Wi-Fi.HK Hotspot Locations: Jashan Celebrating Indian Cuisine",
+        "faciType": "WIFIHK",
+        "id": "990146246",
+        "nameStatus": "E",
+        "northing": 815918.3,
+        "score": 7.314559459686279,
+        "type": "F"
+    },
+    {
+        "caddress": "銅鑼灣加路連山道63號印度遊樂會出",
+        "cdescription": null,
+        "cname": "Wi-Fi.HK 熱點位置: 電訊盈科電話亭",
+        "eaddress": "Outside Indian Club, Caroline Hill Road, Causeway Bay",
+        "easting": 837414.6,
+        "edescription": null,
+        "ename": "Wi-Fi.HK Hotspot Locations: PCCW Phone Booth",
+        "faciType": "WIFIHK",
+        "id": "990121264",
+        "nameStatus": "E",
+        "northing": 815082.0,
+        "score": 0.927951455116272,
+        "type": "F"
+    },
+    {
+        "caddress": "銅鑼灣加路連山道63號印度遊樂會外",
+        "cdescription": null,
+        "cname": "已登記的WiFi 熱點: 香港電話有限公司 (APID 07414)",
+        "eaddress": "Outside Indian Club, Caroline Hill Road, Causeway Bay",
+        "easting": 837474.14878714,
+        "edescription": null,
+        "ename": "Registered WiFi Access Points: PCCW-HKT Telephone Limited (APID 07414)",
+        "faciType": "WIFI",
+        "id": "990267174",
+        "nameStatus": "E",
+        "northing": 815179.67562543,
+        "score": 0.927951455116272,
+        "type": "F"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "caddress": "金融街   8號",
+        "cdescription": null,
+        "cname": "四季酒店",
+        "eaddress": "8 FINANCE STREET  ",
+        "easting": 834209.0,
+        "edescription": null,
+        "ename": "FOUR SEASONS HOTEL",
+        "faciType": null,
+        "id": "1503015379",
+        "nameStatus": "E",
+        "northing": 816375.0,
+        "score": 24530.357421875,
+        "type": "S"
+    },
+    {
+        "caddress": "香港中環金融街8號",
+        "cdescription": null,
+        "cname": "香港四季酒店",
+        "eaddress": "8 Finance Street,Central,Hong Kong.",
+        "easting": 834185.3,
+        "edescription": null,
+        "ename": "FOUR SEASONS HOTEL HONG KONG",
+        "faciType": "LLHG",
+        "id": "99079843",
+        "nameStatus": "E",
+        "northing": 816414.1,
+        "score": 796.645263671875,
+        "type": "F"
+    },
+    {
+        "caddress": "四季酒店",
+        "cdescription": null,
+        "cname": "四季匯",
+        "eaddress": "FOUR SEASONS HOTEL",
+        "easting": 834235.0,
+        "edescription": null,
+        "ename": "Four Seasons Place",
+        "faciType": null,
+        "id": "1103121969",
+        "nameStatus": "E",
+        "northing": 816385.0,
+        "score": 250.70706176757812,
+        "type": "B"
+    }
+]

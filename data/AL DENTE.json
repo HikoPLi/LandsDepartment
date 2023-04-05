@@ -1,0 +1,47 @@
+[
+    {
+        "caddress": "偉業街151號天順工業大廈地下B舖",
+        "cdescription": null,
+        "cname": "DENT DOCTOR",
+        "eaddress": "G/F, Block B, Keysky Industrial Building, No. 151, Wai Yip Street",
+        "easting": 840578.2453142,
+        "edescription": null,
+        "ename": "DENT DOCTOR",
+        "faciType": "RVMW",
+        "id": "990149430",
+        "nameStatus": "E",
+        "northing": 819329.06222297,
+        "score": 60.301307678222656,
+        "type": "F"
+    },
+    {
+        "caddress": "荷李活道   30號",
+        "cdescription": null,
+        "cname": "愛瑪大廈",
+        "eaddress": "30 HOLLYWOOD ROAD  ",
+        "easting": 833858.0,
+        "edescription": null,
+        "ename": "Al-Aqmar House",
+        "faciType": null,
+        "id": "1103125533",
+        "nameStatus": "E",
+        "northing": 815913.0,
+        "score": 52.09688186645508,
+        "type": "B"
+    },
+    {
+        "caddress": "香港中環荷李活道30號愛瑪大廈地下上層B舖",
+        "cdescription": null,
+        "cname": "7-11便利店-愛瑪大廈",
+        "eaddress": "Shop B, Upper Ground Floor, Al Aqmar House, 30 Hollywood Road, Central, Hong Kong",
+        "easting": 833860.2498,
+        "edescription": null,
+        "ename": "7-Eleven Store-Al Aqmar House",
+        "faciType": "CVS",
+        "id": "21160555",
+        "nameStatus": "E",
+        "northing": 815914.9986,
+        "score": 19.109731674194336,
+        "type": "F"
+    }
+]

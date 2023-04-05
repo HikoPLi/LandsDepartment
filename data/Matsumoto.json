@@ -1,0 +1,62 @@
+[
+    {
+        "caddress": "SHOP UNIT UC-17 & 19, NO. 418 KWUN TONG ROAD,KWUN TONG,KLN",
+        "cdescription": null,
+        "cname": "松本清A P M",
+        "eaddress": "SHOP UNIT UC-17 & 19, NO. 418 KWUN TONG ROAD,KWUN TONG,KLN",
+        "easting": 841242.88667988,
+        "edescription": null,
+        "ename": "MATSUMOTO KIYOSHI APM O/B MATSUMOTO KIYOSHI (HK) CO., LIMITED",
+        "faciType": "RP",
+        "id": "990392819",
+        "nameStatus": "E",
+        "northing": 819287.0094162,
+        "score": 204.647216796875,
+        "type": "F"
+    },
+    {
+        "caddress": "SHOP UG025-UG033, UG/F, TUEN MUN TOWN PLAZA, PHASE 1, 1 TUEN SHUN STREET, TUEN MUN, NT",
+        "cdescription": null,
+        "cname": "松本清屯門市廣場",
+        "eaddress": "SHOP UG025-UG033, UG/F, TUEN MUN TOWN PLAZA, PHASE 1, 1 TUEN SHUN STREET, TUEN MUN, NT",
+        "easting": 815649.21267873,
+        "edescription": null,
+        "ename": "MATSUMOTO KIYOSHI TMTPLAZA O/B MATSUMOTO KIYOSHI (HK) CO., LIMITED",
+        "faciType": "RP",
+        "id": "990413011",
+        "nameStatus": "E",
+        "northing": 828192.34111789,
+        "score": 204.647216796875,
+        "type": "F"
+    },
+    {
+        "caddress": "SHOP G03-04 & SHOP F02-06, HANG LUNG CENTRE, 2-20 PATERSON STREET, CAUSEWAY BAY, HK",
+        "cdescription": null,
+        "cname": "松本清銅鑼灣旗艦店",
+        "eaddress": "SHOP G03-04 & SHOP F02-06, HANG LUNG CENTRE, 2-20 PATERSON STREET, CAUSEWAY BAY, HK",
+        "easting": 837217.40224495,
+        "edescription": null,
+        "ename": "MATSUMOTO KIYOSHI CAUSEWAY BAY FLAGSHIP O/B MATSUMOTO KIYOSHI (HK) CO., LIMITED",
+        "faciType": "RP",
+        "id": "990519283",
+        "nameStatus": "E",
+        "northing": 815702.23222248,
+        "score": 189.08592224121094,
+        "type": "F"
+    },
+    {
+        "caddress": "SHOP 250 LEVEL 2 & 359 LEVEL 3, NEW TOWN PLAZA, SHATIN CENTRE STREET, SHATIN, NT",
+        "cdescription": null,
+        "cname": "松本清 (新城市廣場)",
+        "eaddress": "SHOP 250 LEVEL 2 & 359 LEVEL 3, NEW TOWN PLAZA, SHATIN CENTRE STREET, SHATIN, NT",
+        "easting": 837460.70642136,
+        "edescription": null,
+        "ename": "MATSUMOTO KIYOSHI NEW TOWN PLAZA O/B MATSUMOTO KIYOSHI (HK) CO., LIMITED",
+        "faciType": "RP",
+        "id": "990410957",
+        "nameStatus": "E",
+        "northing": 826956.53127487,
+        "score": 189.08592224121094,
+        "type": "F"
+    }
+]

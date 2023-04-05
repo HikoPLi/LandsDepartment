@@ -1,0 +1,17 @@
+[
+    {
+        "caddress": "尖沙咀梳士巴利道3號星光行3樓北京樓",
+        "cdescription": null,
+        "cname": "已登記的WiFi 熱點: 香港寬頻網絡有限公司 (APID 03074)",
+        "eaddress": "Peking Garden Restaurant (TST), 3/F, Star House, 3 Salisbury Road",
+        "easting": 835426.0,
+        "edescription": null,
+        "ename": "Registered WiFi Access Points: Hong Kong Broadband Network Limited (APID 03074)",
+        "faciType": "WIFI",
+        "id": "990258470",
+        "nameStatus": "E",
+        "northing": 817312.0,
+        "score": 10.385058403015137,
+        "type": "F"
+    }
+]

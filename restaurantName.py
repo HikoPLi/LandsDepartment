@@ -13,9 +13,11 @@ def findNmaeInJSON(JSONfile):
     while i < resturantAmount:
         for lp in data["DATA"]["LPS"]["LP"]:
             restaurantName = lp["SS"]
+            restaurantName = restaurantName.replace("/", " ")
             print(restaurantName)
             APIrequest.requestAPI(restaurantName)
             fetchLocationFromJSON.location(restaurantName)
+
             currentDir = os.path.abspath(".")
             parentDir = os.path.dirname(currentDir)
             os.chdir(parentDir)

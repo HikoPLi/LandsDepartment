@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "新界屯門建泰街6號恒威工業中心A2座5樓6室",
+        "cdescription": null,
+        "cname": "良膳廚坊",
+        "eaddress": "Unit 6, 5/f, Block A2, Hang Wai Industrial Centre, 6 Kin Tai Street, Tuen Mun, NT",
+        "easting": 814990.05186749,
+        "edescription": null,
+        "ename": "Fantastic Kitchen",
+        "faciType": "SE",
+        "id": "990146690",
+        "nameStatus": "E",
+        "northing": 828552.90902079,
+        "score": 102.98599243164062,
+        "type": "F"
+    },
+    {
+        "caddress": "新界沙田火炭桂地街10-14號華麗工業中心406室",
+        "cdescription": null,
+        "cname": "銀杏館 (香港廚房 - 到會服務)",
+        "eaddress": "Room 406, Wah Lai Industrial Centre, 10-14 Kwei Tei Street, Fo Tan, N.T., Hong Kong",
+        "easting": 837782.02107501,
+        "edescription": null,
+        "ename": "Hong Kong Kitchen (Fo Tan)",
+        "faciType": "SE",
+        "id": "990146898",
+        "nameStatus": "E",
+        "northing": 828996.60208339,
+        "score": 79.60733795166016,
+        "type": "F"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "永康街   79號",
+        "cdescription": null,
+        "cname": "創匯國際中心",
+        "eaddress": "79 WING HONG STREET  ",
+        "easting": 833450.0,
+        "edescription": null,
+        "ename": "The Globe",
+        "faciType": null,
+        "id": "1108222213",
+        "nameStatus": "E",
+        "northing": 822279.0,
+        "score": 19206.13671875,
+        "type": "B"
+    },
+    {
+        "caddress": "長沙灣永康街79號",
+        "cdescription": null,
+        "cname": "創匯國際中心",
+        "eaddress": "79 Wing Hong Street, Kowloon",
+        "easting": 833444.066,
+        "edescription": null,
+        "ename": "The Globe",
+        "faciType": "CPO",
+        "id": "21106732",
+        "nameStatus": "E",
+        "northing": 822312.588,
+        "score": 11523.6826171875,
+        "type": "F"
+    }
+]
