@@ -1,13 +1,11 @@
-import APIrequest
 import restaurantName
-import fetchLocationFromJSON
+import downloadXMLfromWeb
 
 
 def main():
 
-    keyword = restaurantName.name()
-    # APIrequest.requestAPI(keyword)
-    # fetchLocationFromJSON.location(keyword)
+    restaurantName.name()
+    downloadXMLfromWeb.download(True)
 
 
 main()
