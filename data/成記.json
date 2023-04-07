@@ -1,0 +1,62 @@
+[
+    {
+        "caddress": "牛頭角定安街100-102號 H地下",
+        "cdescription": null,
+        "cname": "沈成記",
+        "eaddress": "G/F, No. 100-102H, Ting On Street, Ngau Tau Kok",
+        "easting": 840240.8390656,
+        "edescription": null,
+        "ename": "SHUM SHING KEE ELECTRICAL SERVICE",
+        "faciType": "RVMW",
+        "id": "990149680",
+        "nameStatus": "E",
+        "northing": 819880.10357145,
+        "score": 501.7658386230469,
+        "type": "F"
+    },
+    {
+        "caddress": "九龍大角咀角祥街41號地下",
+        "cdescription": null,
+        "cname": "文成記會所",
+        "eaddress": "G/F, 41 Kok Cheung Street,Tai Kok Tsui, Kowloon",
+        "easting": 834543.7,
+        "edescription": null,
+        "ename": "MAN SHING KEE CLUB",
+        "faciType": "CLUB",
+        "id": "99083504",
+        "nameStatus": "E",
+        "northing": 820225.4,
+        "score": 438.581787109375,
+        "type": "F"
+    },
+    {
+        "caddress": "屏山石埗路永安居 DD124 LOT 604",
+        "cdescription": null,
+        "cname": "成記機械工程",
+        "eaddress": "DD124 LOT 604 Wing On Kerb, Shek Po Road, Ping Shan",
+        "easting": 817720.9,
+        "edescription": null,
+        "ename": "SHING KEE ENGINEERING",
+        "faciType": "RVMW",
+        "id": "990150072",
+        "nameStatus": "E",
+        "northing": 833835.9,
+        "score": 412.6035461425781,
+        "type": "F"
+    },
+    {
+        "caddress": "新蒲崗景福街99號啟德工廠大廈二期地下A2舖",
+        "cdescription": null,
+        "cname": "成記汽車專業焗油",
+        "eaddress": "Shop A2, G/F, Kai Tak Factory Building, Phase 2, No. 99, King Fuk Street, San Po Kong",
+        "easting": 838468.76000102,
+        "edescription": null,
+        "ename": "SHING KEE PROFESSIONAL PAINT SHOP",
+        "faciType": "RVMW",
+        "id": "990149894",
+        "nameStatus": "E",
+        "northing": 821743.14611411,
+        "score": 368.9017333984375,
+        "type": "F"
+    }
+]

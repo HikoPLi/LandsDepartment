@@ -1,0 +1,17 @@
+[
+    {
+        "caddress": "中環夏慤道10號和記大廈1樓美心",
+        "cdescription": null,
+        "cname": "已登記的WiFi 熱點: Hong Kong Telecommunications (HKT) Limited (APID 05222)",
+        "eaddress": "1/F, Block MX, Hutchison House, 10 Harcourt Rd",
+        "easting": 834796.0,
+        "edescription": null,
+        "ename": "Registered WiFi Access Points: Hong Kong Telecommunications (HKT) Limited (APID 05222)",
+        "faciType": "WIFI",
+        "id": "990262760",
+        "nameStatus": "E",
+        "northing": 815812.0,
+        "score": 3.0447537899017334,
+        "type": "F"
+    }
+]

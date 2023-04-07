@@ -1,0 +1,47 @@
+[
+    {
+        "caddress": "育才道   11號",
+        "cdescription": null,
+        "cname": "香港理工大學BC翼",
+        "eaddress": "11 YUK CHOI ROAD  ",
+        "easting": 836455.0,
+        "edescription": null,
+        "ename": "The Hong Kong Polytechnic University BC Wing",
+        "faciType": null,
+        "id": "1108242782",
+        "nameStatus": "E",
+        "northing": 818207.0,
+        "score": 81797.390625,
+        "type": "B"
+    },
+    {
+        "caddress": "九龍旺角招商永隆銀行中心",
+        "cdescription": null,
+        "cname": "銀行中心廣場",
+        "eaddress": "Cmb Wing Lung Bank Centre, Mong Kok, KLN",
+        "easting": 835554.0,
+        "edescription": null,
+        "ename": "BC Mall",
+        "faciType": "MAL",
+        "id": "557033",
+        "nameStatus": "E",
+        "northing": 819910.0,
+        "score": 46101.09375,
+        "type": "F"
+    },
+    {
+        "caddress": "九江街149號常榮大樓地下BC舖",
+        "cdescription": null,
+        "cname": "高科技摩托車公司",
+        "eaddress": "Shop BC, G/F, Sheung Wing Building, No. 149, Kiu Kiang Street",
+        "easting": 834603.91275833,
+        "edescription": null,
+        "ename": "HI-TECH MOTORCYCLE COMPANY",
+        "faciType": "RVMW",
+        "id": "990150740",
+        "nameStatus": "E",
+        "northing": 821593.55646111,
+        "score": 16798.052734375,
+        "type": "F"
+    }
+]

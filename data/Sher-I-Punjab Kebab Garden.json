@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "新界大埔錦華精舍",
+        "cdescription": null,
+        "cname": "錦華精舍",
+        "eaddress": "Kam Wah Ching Sher, Tai Po, NT",
+        "easting": 834681.0,
+        "edescription": null,
+        "ename": "Kam Wah Ching Sher",
+        "faciType": "MON",
+        "id": "555759",
+        "nameStatus": "E",
+        "northing": 833749.0,
+        "score": 23.02420997619629,
+        "type": "F"
+    },
+    {
+        "caddress": "新界大嶼山",
+        "cdescription": null,
+        "cname": "正善精舍",
+        "eaddress": "Lantau Island, NT",
+        "easting": 817206.0,
+        "edescription": null,
+        "ename": "Taoist Ching Sin Ching Sher",
+        "faciType": "MON",
+        "id": "545184",
+        "nameStatus": "E",
+        "northing": 813471.0,
+        "score": 17.509559631347656,
+        "type": "F"
+    }
+]

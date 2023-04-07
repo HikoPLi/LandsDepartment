@@ -1,0 +1,47 @@
+[
+    {
+        "caddress": "九龍醫院",
+        "cdescription": null,
+        "cname": "九龍醫院康復大樓",
+        "eaddress": "Kowloon Hospital",
+        "easting": 836915.0,
+        "edescription": null,
+        "ename": "Kowloon Hospital Rehabilitation Building",
+        "faciType": null,
+        "id": "1108230637",
+        "nameStatus": "E",
+        "northing": 820678.0,
+        "score": 31246.43359375,
+        "type": "B"
+    },
+    {
+        "caddress": "九龍亞皆老街147A九龍醫院康復大樓地下",
+        "cdescription": null,
+        "cname": "新生便利店(九龍醫院康復大樓)",
+        "eaddress": "G/F, Rehabilitation Building, Kowloon Hospital, 147A Argyle Street, KLN",
+        "easting": 836911.95271398,
+        "edescription": null,
+        "ename": "New Life Convenience Store (Rehabilitation Building, Kowloon Hospital)",
+        "faciType": "SE",
+        "id": "990147118",
+        "nameStatus": "E",
+        "northing": 820692.43555735,
+        "score": 1387.970703125,
+        "type": "F"
+    },
+    {
+        "caddress": "九龍亞皆老街147號A九龍醫院康復大樓閣樓",
+        "cdescription": null,
+        "cname": "九龍醫院康復大樓(2B病房及病人資源中心除外)",
+        "eaddress": "Mezzanine Floor, Kowloon Hospital Rehabilitation Building, 147A, Argyle Street, Kowloon",
+        "easting": 836903.72727328,
+        "edescription": null,
+        "ename": "Kowloon Hospital Rehabilitation Building (Excluding Ward 2B and Patient Resource Centre)",
+        "faciType": "MSS",
+        "id": "99077665",
+        "nameStatus": "E",
+        "northing": 820672.30441752,
+        "score": 445.64044189453125,
+        "type": "F"
+    }
+]

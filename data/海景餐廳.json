@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "大嶼山亞洲國際博覽館2層亞景軒海景餐廳",
+        "cdescription": null,
+        "cname": "已登記的WiFi 熱點: Hong Kong Telecommunications (HKT) Limited (APID 04457)",
+        "eaddress": "2/F, Block Inside IKON Seaview Restaruant, Asia World Expo, Hong Kong International Airport, Lantau Island",
+        "easting": 812199.7,
+        "edescription": null,
+        "ename": "Registered WiFi Access Points: Hong Kong Telecommunications (HKT) Limited (APID 04457)",
+        "faciType": "WIFI",
+        "id": "990261232",
+        "nameStatus": "E",
+        "northing": 820241.0,
+        "score": 17.901548385620117,
+        "type": "F"
+    },
+    {
+        "caddress": "大嶼山亞洲國際博覽館2層亞景軒海景餐廳外",
+        "cdescription": null,
+        "cname": "已登記的WiFi 熱點: Hong Kong Telecommunications (HKT) Limited (APID 04456)",
+        "eaddress": "2/F, Block Outside IKON Seaview Restaurant, Asia World Expo, Hong Kong International Airport, Lantau Island",
+        "easting": 812199.7,
+        "edescription": null,
+        "ename": "Registered WiFi Access Points: Hong Kong Telecommunications (HKT) Limited (APID 04456)",
+        "faciType": "WIFI",
+        "id": "990261230",
+        "nameStatus": "E",
+        "northing": 820241.0,
+        "score": 17.305578231811523,
+        "type": "F"
+    }
+]

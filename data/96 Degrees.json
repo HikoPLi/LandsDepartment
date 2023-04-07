@@ -1,0 +1,47 @@
+[
+    {
+        "caddress": "元朗凹頭東成里41A",
+        "cdescription": null,
+        "cname": "龍翔度有限公司",
+        "eaddress": "No. 41A, Au Tau Tung Shing Lei",
+        "easting": 822689.3512287,
+        "edescription": null,
+        "ename": "L DEGREE LIMITED",
+        "faciType": "RVMW",
+        "id": "990150702",
+        "nameStatus": "E",
+        "northing": 834096.86911136,
+        "score": 50518.1328125,
+        "type": "F"
+    },
+    {
+        "caddress": "九龍城道   199號",
+        "cdescription": null,
+        "cname": "8度海逸酒店",
+        "eaddress": "199 KOWLOON CITY ROAD  ",
+        "easting": 837689.0,
+        "edescription": null,
+        "ename": "Harbour Plaza 8 Degrees",
+        "faciType": null,
+        "id": "1108231986",
+        "nameStatus": "E",
+        "northing": 820427.0,
+        "score": 46132.31640625,
+        "type": "B"
+    },
+    {
+        "caddress": "土瓜灣木廠街199號8度海逸酒店地下Café 8 Degrees",
+        "cdescription": null,
+        "cname": "已登記的WiFi 熱點: 環球全域電訊有限公司 (APID 01177)",
+        "eaddress": "Unit Cafe 8 Degrees, G/F, Harbour Plaza 8 Degree, 199 Mok Cheong Street, Tokwan Wan",
+        "easting": 837686.8,
+        "edescription": null,
+        "ename": "Registered WiFi Access Points: HGC Global Communications Limited (APID 01177)",
+        "faciType": "WIFI",
+        "id": "990254676",
+        "nameStatus": "E",
+        "northing": 820437.4,
+        "score": 1759.845947265625,
+        "type": "F"
+    }
+]

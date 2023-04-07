@@ -1,0 +1,17 @@
+[
+    {
+        "caddress": "旭日街   3號",
+        "cdescription": "旭日街3號 (現稱)",
+        "cname": "詠輝中心 (前稱)",
+        "eaddress": "3 YUK YAT STREET  ",
+        "easting": 837732.0,
+        "edescription": "3 Yuk Yat Street (Current Name)",
+        "ename": "Pam & Frank Centre (Previous Name)",
+        "faciType": null,
+        "id": "1108237286",
+        "nameStatus": "R",
+        "northing": 819646.0,
+        "score": 261.92388916015625,
+        "type": "B"
+    }
+]

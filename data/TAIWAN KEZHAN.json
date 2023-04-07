@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "九龍尖沙咀彌敦道58號美麗都大廈F座4字樓F4室",
+        "cdescription": null,
+        "cname": "台灣旅舍",
+        "eaddress": "Flat F4, Block F,4/F, Mirador Mansion,58 Nathan Road, Tsim Sha Tsui, Kowloon.",
+        "easting": 835821.8,
+        "edescription": null,
+        "ename": "TAIWAN HOSTEL",
+        "faciType": "LLHG",
+        "id": "99082303",
+        "nameStatus": "E",
+        "northing": 817606.1,
+        "score": 57.569969177246094,
+        "type": "F"
+    },
+    {
+        "caddress": "九龍尖沙咀彌敦道40號重慶大廈A座3字樓A5室",
+        "cdescription": null,
+        "cname": "到此一棧 - 香港台灣青年背包旅館",
+        "eaddress": "Flat A5, Block A,3/F, Chungking Mansions,40 Nathan Road, Tsim Sha Tsui, Kowloon.",
+        "easting": 835825.0,
+        "edescription": null,
+        "ename": "1ST HOMESTAY - HK TAIWAN HOSTEL",
+        "faciType": "LLHG",
+        "id": "99081517",
+        "nameStatus": "E",
+        "northing": 817508.9,
+        "score": 40.53591537475586,
+        "type": "F"
+    }
+]

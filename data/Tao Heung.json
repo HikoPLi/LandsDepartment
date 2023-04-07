@@ -1,0 +1,62 @@
+[
+    {
+        "caddress": "",
+        "cdescription": null,
+        "cname": "稻鄉人類飲食博物館 (前稱)",
+        "eaddress": "",
+        "easting": 833044.0,
+        "edescription": null,
+        "ename": "Tao Heung Foods of Mankind Museum (Previous Name)",
+        "faciType": null,
+        "id": "1502025002",
+        "nameStatus": "R",
+        "northing": 839963.0,
+        "score": 313.2608642578125,
+        "type": "S"
+    },
+    {
+        "caddress": "㘭背灣街   13號",
+        "cdescription": "稻苗學院 (現稱)",
+        "cname": "稻香物流中心 (前稱)",
+        "eaddress": "13 AU PUI WAN STREET  ",
+        "easting": 838250.0,
+        "edescription": "Tao Miao Institute (Current Name)",
+        "ename": "Tao Heung Logistics Centre (Previous Name)",
+        "faciType": null,
+        "id": "1102443428",
+        "nameStatus": "R",
+        "northing": 828511.0,
+        "score": 273.1109619140625,
+        "type": "B"
+    },
+    {
+        "caddress": "㘭背灣街   13號",
+        "cdescription": "稻苗學院 (現稱)",
+        "cname": "稻香訓練酒樓 (別稱)",
+        "eaddress": "13 AU PUI WAN STREET",
+        "easting": 838250.0,
+        "edescription": "Tao Miao Institute (Current Name)",
+        "ename": "Tao Heung Training Restaurant (Other Name)",
+        "faciType": null,
+        "id": "1102443428",
+        "nameStatus": "O",
+        "northing": 828511.0,
+        "score": 273.1109619140625,
+        "type": "B"
+    },
+    {
+        "caddress": "青衣楓樹窩路1號翠怡花園商場",
+        "cdescription": null,
+        "cname": "已登記的WiFi 熱點: Hong Kong Telecommunications (HKT) Limited (APID 06682)",
+        "eaddress": "Tao Heung Rest., Greenfield Garden Shopping Arcade, 1 Fung Shue Wo Road, Tsing Yi",
+        "easting": 829285.9,
+        "edescription": null,
+        "ename": "Registered WiFi Access Points: Hong Kong Telecommunications (HKT) Limited (APID 06682)",
+        "faciType": "WIFI",
+        "id": "990265710",
+        "nameStatus": "E",
+        "northing": 823791.3,
+        "score": 8.698466300964355,
+        "type": "F"
+    }
+]

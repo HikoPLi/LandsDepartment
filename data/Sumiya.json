@@ -1,0 +1,62 @@
+[
+    {
+        "caddress": "高士台",
+        "cdescription": null,
+        "cname": "高士台第一座",
+        "eaddress": "The Summa",
+        "easting": 832410.0,
+        "edescription": null,
+        "ename": "The Summa Tower 1",
+        "faciType": null,
+        "id": "1810107610",
+        "nameStatus": "E",
+        "northing": 816209.0,
+        "score": 16.382919311523438,
+        "type": "B"
+    },
+    {
+        "caddress": "堅尼地道   21-23A號",
+        "cdescription": null,
+        "cname": "富士屋",
+        "eaddress": "21-23A KENNEDY ROAD  ",
+        "easting": 835704.0,
+        "edescription": null,
+        "ename": "Fujiya Mansion",
+        "faciType": null,
+        "id": "1103130572",
+        "nameStatus": "E",
+        "northing": 815036.0,
+        "score": 9.595966339111328,
+        "type": "B"
+    },
+    {
+        "caddress": "高士台",
+        "cdescription": null,
+        "cname": "高士台第二座",
+        "eaddress": "The Summa",
+        "easting": 832446.0,
+        "edescription": null,
+        "ename": "The SummaTower 2",
+        "faciType": null,
+        "id": "1810107609",
+        "nameStatus": "E",
+        "northing": 816201.0,
+        "score": 9.246978759765625,
+        "type": "B"
+    },
+    {
+        "caddress": "興漢道   23號",
+        "cdescription": null,
+        "cname": "高士台",
+        "eaddress": "23 HING HON ROAD  ",
+        "easting": 832425.0,
+        "edescription": null,
+        "ename": "The Summa",
+        "faciType": null,
+        "id": "1810027437",
+        "nameStatus": "E",
+        "northing": 816207.0,
+        "score": 8.636487007141113,
+        "type": "S"
+    }
+]

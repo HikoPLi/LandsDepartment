@@ -14,6 +14,8 @@ def findNmaeInJSON(JSONfile):
         for lp in data["DATA"]["LPS"]["LP"]:
             restaurantName = lp["SS"]
             restaurantName = restaurantName.replace("/", " ")
+            restaurantName = restaurantName.replace("%", " ")
+            restaurantName = restaurantName.replace("!", " ")
             print(restaurantName)
             APIrequest.requestAPI(restaurantName)
             fetchLocationFromJSON.location(restaurantName)

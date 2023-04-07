@@ -1,0 +1,47 @@
+[
+    {
+        "caddress": "香港警察學院",
+        "cdescription": null,
+        "cname": "香港警察學院試煙室",
+        "eaddress": "HONG KONG POLICE COLLEGE",
+        "easting": 835894.0,
+        "edescription": null,
+        "ename": "Hong Kong Police College Smoke Chamber",
+        "faciType": null,
+        "id": "1103138583",
+        "nameStatus": "E",
+        "northing": 811824.0,
+        "score": 509.49603271484375,
+        "type": "B"
+    },
+    {
+        "caddress": "尖東科學館道 1 號康宏廣場 1/F 戶外吸煙區",
+        "cdescription": null,
+        "cname": "Wi-Fi.HK 熱點位置: 康宏廣場",
+        "eaddress": "1/F Smoking Corner, Concordia Plaza, 1 Science Museum Road, Tsim Sha Tsui",
+        "easting": 836445.8,
+        "edescription": null,
+        "ename": "Wi-Fi.HK Hotspot Locations: Concordia Plaza",
+        "faciType": "WIFIHK",
+        "id": "990119858",
+        "nameStatus": "E",
+        "northing": 818097.3,
+        "score": 9.641432762145996,
+        "type": "F"
+    },
+    {
+        "caddress": "尖沙咀科學館道1號康宏廣場",
+        "cdescription": null,
+        "cname": "已登記的WiFi 熱點: 環球全域電訊有限公司 (APID 01014)",
+        "eaddress": "1/F Smoking Corner, Concordia Plaza, 1 Science Museum Road, Tsim Sha Tsui",
+        "easting": 836425.0,
+        "edescription": null,
+        "ename": "Registered WiFi Access Points: HGC Global Communications Limited (APID 01014)",
+        "faciType": "WIFI",
+        "id": "990254350",
+        "nameStatus": "E",
+        "northing": 818120.0,
+        "score": 9.641432762145996,
+        "type": "F"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "油塘高輝道17號油塘工業城A1座地下2號舖",
+        "cdescription": null,
+        "cname": "BILLY MOTOR SERVICE",
+        "eaddress": "Flat 2, G/F, Block A1, Yau Tong Industrial City, No. 17, Ko Fai Road, Yau Tong",
+        "easting": 842292.40290813,
+        "edescription": null,
+        "ename": "BILLY MOTOR SERVICE",
+        "faciType": "RVMW",
+        "id": "990151470",
+        "nameStatus": "E",
+        "northing": 817402.9561018,
+        "score": 52.09688186645508,
+        "type": "F"
+    },
+    {
+        "caddress": "香港西灣河筲箕灣道57-87號太安樓地下A23A 舖",
+        "cdescription": null,
+        "cname": "關兆權醫務所",
+        "eaddress": "SHOP A23A, G/F, TAI ON BUILDING, 57-87 SHAU KEI WAN ROAD, SAI WAN HO, HK",
+        "easting": 840893.0,
+        "edescription": null,
+        "ename": "KWAN SIU KUEN BILLY",
+        "faciType": "CCSPP",
+        "id": "990110179",
+        "nameStatus": "E",
+        "northing": 815975.0,
+        "score": 19.02964210510254,
+        "type": "F"
+    }
+]

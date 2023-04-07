@@ -1,0 +1,62 @@
+[
+    {
+        "caddress": "  布心排 69J號",
+        "cdescription": null,
+        "cname": "",
+        "eaddress": "69J   PO SAM PAI",
+        "easting": 839668.0,
+        "edescription": null,
+        "ename": "",
+        "faciType": null,
+        "id": "1106115103",
+        "nameStatus": "E",
+        "northing": 836823.0,
+        "score": 279.5101623535156,
+        "type": "B"
+    },
+    {
+        "caddress": "錦綉花園Ｊ段第三街   69號",
+        "cdescription": null,
+        "cname": "",
+        "eaddress": "69 FAIRVIEW PARK SECTION J, 3RD STREET  ",
+        "easting": 822374.0,
+        "edescription": null,
+        "ename": "",
+        "faciType": null,
+        "id": "1105702668",
+        "nameStatus": "E",
+        "northing": 837686.0,
+        "score": 9.415510177612305,
+        "type": "B"
+    },
+    {
+        "caddress": "錦綉花園Ｊ段第二街   69號",
+        "cdescription": null,
+        "cname": "",
+        "eaddress": "69 FAIRVIEW PARK SECTION J, 2ND STREET  ",
+        "easting": 822414.0,
+        "edescription": null,
+        "ename": "",
+        "faciType": null,
+        "id": "1105702772",
+        "nameStatus": "E",
+        "northing": 837667.0,
+        "score": 9.415510177612305,
+        "type": "B"
+    },
+    {
+        "caddress": "錦綉花園Ｊ段第一街   69號",
+        "cdescription": null,
+        "cname": "",
+        "eaddress": "69 FAIRVIEW PARK SECTION J, 1ST STREET  ",
+        "easting": 822462.0,
+        "edescription": null,
+        "ename": "",
+        "faciType": null,
+        "id": "1105702891",
+        "nameStatus": "E",
+        "northing": 837647.0,
+        "score": 9.415510177612305,
+        "type": "B"
+    }
+]

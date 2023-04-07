@@ -1,0 +1,62 @@
+[
+    {
+        "caddress": "梨木道   57-61號",
+        "cdescription": null,
+        "cname": "根德工業大廈",
+        "eaddress": "57-61 LEI MUK ROAD  ",
+        "easting": 832073.0,
+        "edescription": null,
+        "ename": "Kentucky Industrial Building",
+        "faciType": null,
+        "id": "1100006881",
+        "nameStatus": "E",
+        "northing": 825592.0,
+        "score": 54.56855010986328,
+        "type": "B"
+    },
+    {
+        "caddress": "嘉道理農場暨植物園",
+        "cdescription": null,
+        "cname": "嘉道理農場暨植物園雞舍",
+        "eaddress": "KADOORIE FARM & BOTANIC GARDEN",
+        "easting": 830367.0,
+        "edescription": null,
+        "ename": "Kadoorie Farm & Botanic Garden Chicken House",
+        "faciType": null,
+        "id": "1106134557",
+        "nameStatus": "E",
+        "northing": 832428.0,
+        "score": 39.269161224365234,
+        "type": "B"
+    },
+    {
+        "caddress": "嘉道理農場暨植物園",
+        "cdescription": null,
+        "cname": "嘉道理農場暨植物園雞舍",
+        "eaddress": "KADOORIE FARM & BOTANIC GARDEN",
+        "easting": 830325.0,
+        "edescription": null,
+        "ename": "Kadoorie Farm & Botanic Garden Chicken House",
+        "faciType": null,
+        "id": "1106134620",
+        "nameStatus": "E",
+        "northing": 832402.0,
+        "score": 39.269161224365234,
+        "type": "B"
+    },
+    {
+        "caddress": "嘉道理農場暨植物園",
+        "cdescription": null,
+        "cname": "胡禮先生紀念雞舍及展覽中心",
+        "eaddress": "KADOORIE FARM & BOTANIC GARDEN",
+        "easting": 830340.0,
+        "edescription": null,
+        "ename": "The Norman Wright Memorial Chicken Display",
+        "faciType": null,
+        "id": "1106134549",
+        "nameStatus": "E",
+        "northing": 832429.0,
+        "score": 39.269161224365234,
+        "type": "B"
+    }
+]

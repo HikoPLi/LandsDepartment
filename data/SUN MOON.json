@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "成和道   45號",
+        "cdescription": null,
+        "cname": "日月大廈",
+        "eaddress": "45 SING WOO ROAD  ",
+        "easting": 837235.0,
+        "edescription": null,
+        "ename": "Sun & Moon Building",
+        "faciType": null,
+        "id": "1103132241",
+        "nameStatus": "E",
+        "northing": 814462.0,
+        "score": 703.5460815429688,
+        "type": "B"
+    },
+    {
+        "caddress": "成和道   45號",
+        "cdescription": "日月大廈 (現稱)",
+        "cname": "新滿樓 (前稱)",
+        "eaddress": "45 SING WOO ROAD  ",
+        "easting": 837235.0,
+        "edescription": null,
+        "ename": "Sun & Moon Building (Previous Name)",
+        "faciType": null,
+        "id": "1103132241",
+        "nameStatus": "R",
+        "northing": 814462.0,
+        "score": 281.4184265136719,
+        "type": "B"
+    }
+]

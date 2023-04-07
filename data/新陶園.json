@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "新界元朗丈量約份第103約地段第216號C、H分段及234號B(1)分段(亦稱錦田高埔村118、119及120號)",
+        "cdescription": null,
+        "cname": "新陶園護老院",
+        "eaddress": "LOT NOS. 216C, 216H & 234B(1) IN DD103, YUEN LONG, NEW TERRITORIES (ALSO KNOWN AS NOS. 118, 119 & 120, KO PO TSUEN, KAM TIN)",
+        "easting": 823765.0,
+        "edescription": null,
+        "ename": "SUN TAO YUEN FOR THE AGED",
+        "faciType": "PELDERLY",
+        "id": "990317918",
+        "nameStatus": "E",
+        "northing": 833590.0,
+        "score": 690.5396118164062,
+        "type": "F"
+    },
+    {
+        "caddress": "  高埔村 118-119號",
+        "cdescription": null,
+        "cname": "新陶園護老院",
+        "eaddress": "118-119   KO PO TSUEN",
+        "easting": 823765.0,
+        "edescription": null,
+        "ename": "",
+        "faciType": null,
+        "id": "1503022588",
+        "nameStatus": "E",
+        "northing": 833597.0,
+        "score": 689.1054077148438,
+        "type": "S"
+    }
+]

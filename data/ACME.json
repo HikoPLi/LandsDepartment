@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "福喜街   84號",
+        "cdescription": null,
+        "cname": "亞美磁帶有限公司",
+        "eaddress": "84 FUK HI STREET  ",
+        "easting": 820533.0,
+        "edescription": null,
+        "ename": "ACME AGENT",
+        "faciType": null,
+        "id": "1503022356",
+        "nameStatus": "E",
+        "northing": 835812.0,
+        "score": 669.2377319335938,
+        "type": "S"
+    },
+    {
+        "caddress": "南京街   22-28號",
+        "cdescription": null,
+        "cname": "益美大廈",
+        "eaddress": "22-28 NANKING STREET  ",
+        "easting": 835795.0,
+        "edescription": null,
+        "ename": "Acme Building",
+        "faciType": null,
+        "id": "1108241616",
+        "nameStatus": "E",
+        "northing": 818591.0,
+        "score": 669.2377319335938,
+        "type": "B"
+    }
+]

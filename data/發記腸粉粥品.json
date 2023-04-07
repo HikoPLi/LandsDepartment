@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "良業街8號嘉華工業大廈地下6號舖",
+        "cdescription": null,
+        "cname": "發記汽車服務",
+        "eaddress": "G/F, Kar Wah Industrial Building, No. 8, Leung Yip Street",
+        "easting": 821018.72389137,
+        "edescription": null,
+        "ename": "FAT KEE AUTO SERVICES",
+        "faciType": "RVMW",
+        "id": "990151582",
+        "nameStatus": "E",
+        "northing": 834481.70531819,
+        "score": 32.34604263305664,
+        "type": "F"
+    },
+    {
+        "caddress": "葵涌榮芳路73號葵樂大廈地下",
+        "cdescription": null,
+        "cname": "發記膠輪電池公司",
+        "eaddress": "G/F, Kwai Lok Building, No. 73, Wing Fong Road, Kwai Chung",
+        "easting": 831121.25065709,
+        "edescription": null,
+        "ename": "FAT KEI TYRE BATTERY CO.",
+        "faciType": "RVMW",
+        "id": "990152076",
+        "nameStatus": "E",
+        "northing": 824605.65310699,
+        "score": 28.920154571533203,
+        "type": "F"
+    }
+]

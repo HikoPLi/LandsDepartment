@@ -1,0 +1,47 @@
+[
+    {
+        "caddress": "九龍旺角豉油街15號萬利商業大廈4字樓",
+        "cdescription": null,
+        "cname": "UPPER BAR AND RESTAURANT",
+        "eaddress": "4/F, Manly Commercial Building, 15 Soy Street, Mong Kok, Kowloon",
+        "easting": 835462.3,
+        "edescription": null,
+        "ename": "UPPER BAR AND RESTAURANT",
+        "faciType": "CLUB",
+        "id": "99083764",
+        "nameStatus": "E",
+        "northing": 819727.8,
+        "score": 150.2766571044922,
+        "type": "F"
+    },
+    {
+        "caddress": "西貢親民街18-32號錦華樓",
+        "cdescription": null,
+        "cname": "已登記的WiFi 熱點: Hong Kong Telecommunications (HKT) Limited (APID 06570)",
+        "eaddress": "Unit Flat A2-3, G/F, Block Steamers Bar and Restaurant Ltd, Block A, Kam Wah Bldg, Chan Man St",
+        "easting": 846039.0,
+        "edescription": null,
+        "ename": "Registered WiFi Access Points: Hong Kong Telecommunications (HKT) Limited (APID 06570)",
+        "faciType": "WIFI",
+        "id": "990265486",
+        "nameStatus": "E",
+        "northing": 827005.0,
+        "score": 1.7237274646759033,
+        "type": "F"
+    },
+    {
+        "caddress": "香港灣仔皇后大道東213號 胡忠大廈2樓",
+        "cdescription": null,
+        "cname": "Wi-Fi.HK 熱點位置: 仙后餐廳",
+        "eaddress": "SHOP 02 AND RESTAURANT A ON THE 2/F OF WU CHUNG HOUSE 213 QUEEN'S ROAD EAST WANCHAI HK",
+        "easting": 835843.0,
+        "edescription": null,
+        "ename": "Wi-Fi.HK Hotspot Locations: JUNON LIMITED",
+        "faciType": "WIFIHK",
+        "id": "990239734",
+        "nameStatus": "E",
+        "northing": 815049.5,
+        "score": 0.6726972460746765,
+        "type": "F"
+    }
+]

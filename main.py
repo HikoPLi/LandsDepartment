@@ -1,11 +1,11 @@
 import restaurantName
-import downloadXMLfromWeb
+# import downloadXMLfromWeb
 
 
 def main():
 
     restaurantName.name()
-    downloadXMLfromWeb.download(True)
+    # downloadXMLfromWeb.download(True)
 
 
 main()

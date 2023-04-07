@@ -1,0 +1,17 @@
+[
+    {
+        "caddress": "新界屯門",
+        "cdescription": null,
+        "cname": "",
+        "eaddress": "Tuen Mun, NT",
+        "easting": 815502.0,
+        "edescription": null,
+        "ename": "Helicopter Landing Site - TL13  - TUEN MUN HOSPITAL (SUPER PUMA/EC175 DAY ONLY)",
+        "faciType": "HLP",
+        "id": "529632",
+        "nameStatus": "E",
+        "northing": 829770.0,
+        "score": 0.3676958978176117,
+        "type": "F"
+    }
+]

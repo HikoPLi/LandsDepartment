@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "灣仔港灣道18號中環廣場6401-3室",
+        "cdescription": null,
+        "cname": "沙特阿拉伯 - 總領事館",
+        "eaddress": "Suites 6401-3, Central Plaza, 18 Harbour Road, Wanchai",
+        "easting": 835932.0,
+        "edescription": null,
+        "ename": "Saudi Arabia - Consulate-General",
+        "faciType": "CST",
+        "id": "556199",
+        "nameStatus": "E",
+        "northing": 815701.0,
+        "score": 6.229452610015869,
+        "type": "F"
+    },
+    {
+        "caddress": "香港中環夏愨道12號美國銀行中心3211室",
+        "cdescription": null,
+        "cname": "郭樹仁醫生",
+        "eaddress": "Suite 3211, Bank of America Tower, 12 Harcourt Road, Central, Hong Kong",
+        "easting": 834840.0,
+        "edescription": null,
+        "ename": "Dr. Ghosh Arabinda",
+        "faciType": "CSSP",
+        "id": "990103831",
+        "nameStatus": "E",
+        "northing": 815757.0,
+        "score": 3.898137331008911,
+        "type": "F"
+    }
+]

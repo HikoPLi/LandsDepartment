@@ -1,0 +1,62 @@
+[
+    {
+        "caddress": "",
+        "cdescription": null,
+        "cname": "游龍角",
+        "eaddress": "",
+        "easting": 848500.0,
+        "edescription": null,
+        "ename": "Yau Lung Kok",
+        "faciType": null,
+        "id": "611881",
+        "nameStatus": "E",
+        "northing": 826070.0,
+        "score": 641.4722290039062,
+        "type": "PL"
+    },
+    {
+        "caddress": "",
+        "cdescription": null,
+        "cname": "游龍徑",
+        "eaddress": "",
+        "easting": 840135.23561,
+        "edescription": null,
+        "ename": "YAU LUNG PATH",
+        "faciType": null,
+        "id": "12829",
+        "nameStatus": "E",
+        "northing": 821679.49161,
+        "score": 641.4722290039062,
+        "type": "ST"
+    },
+    {
+        "caddress": "彩雲（一）邨",
+        "cdescription": null,
+        "cname": "游龍樓",
+        "eaddress": "CHOI WAN (I) ESTATE",
+        "easting": 840237.0,
+        "edescription": null,
+        "ename": "Yau Lung House",
+        "faciType": null,
+        "id": "1108224936",
+        "nameStatus": "E",
+        "northing": 821662.0,
+        "score": 514.216552734375,
+        "type": "B"
+    },
+    {
+        "caddress": "黃大仙清水灣道彩雲(一)邨游龍樓",
+        "cdescription": null,
+        "cname": "已登記的WiFi 熱點: 香港寬頻網絡有限公司 (APID 03858)",
+        "eaddress": "Yau Lung House, Choi Wan (15) Estate, Wong Tai Sin",
+        "easting": 840237.0,
+        "edescription": null,
+        "ename": "Registered WiFi Access Points: Hong Kong Broadband Network Limited (APID 03858)",
+        "faciType": "WIFI",
+        "id": "990260036",
+        "nameStatus": "E",
+        "northing": 821662.0,
+        "score": 6.902217864990234,
+        "type": "F"
+    }
+]

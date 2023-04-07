@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "愉景灣道   3號",
+        "cdescription": null,
+        "cname": "康和閣",
+        "eaddress": "3 DISCOVERY BAY ROAD  ",
+        "easting": 819587.0,
+        "edescription": null,
+        "ename": "Brilliance Court",
+        "faciType": null,
+        "id": "1103045115",
+        "nameStatus": "E",
+        "northing": 817278.0,
+        "score": 16089.263671875,
+        "type": "B"
+    },
+    {
+        "caddress": "荔枝角道   143-145號",
+        "cdescription": null,
+        "cname": "康和閣",
+        "eaddress": "143-145 LAI CHI KOK ROAD  ",
+        "easting": 834959.0,
+        "edescription": null,
+        "ename": "Konwall Court",
+        "faciType": null,
+        "id": "1108230578",
+        "nameStatus": "E",
+        "northing": 820717.0,
+        "score": 16089.263671875,
+        "type": "B"
+    }
+]

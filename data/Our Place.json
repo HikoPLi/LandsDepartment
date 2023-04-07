@@ -1,0 +1,62 @@
+[
+    {
+        "caddress": "",
+        "cdescription": null,
+        "cname": "",
+        "eaddress": "",
+        "easting": 835503.0,
+        "edescription": null,
+        "ename": "T.O.P This is our place",
+        "faciType": null,
+        "id": "1108246212",
+        "nameStatus": "E",
+        "northing": 820174.0,
+        "score": 963.3141479492188,
+        "type": "P"
+    },
+    {
+        "caddress": "九龍旺角彌敦道700號",
+        "cdescription": null,
+        "cname": "",
+        "eaddress": "700 Nathan Road, Mong Kok, Kowloon",
+        "easting": 835492.385,
+        "edescription": null,
+        "ename": "T.O.P This is our place",
+        "faciType": "MAL",
+        "id": "21116399",
+        "nameStatus": "E",
+        "northing": 820173.233,
+        "score": 593.6958618164062,
+        "type": "F"
+    },
+    {
+        "caddress": "油麻地彌敦道700號T.O.P 地下,地庫, MTR及1-5樓",
+        "cdescription": null,
+        "cname": "已登記的WiFi 熱點: 環球全域電訊有限公司 (APID 00794)",
+        "eaddress": "G, B, MTR, 1-5/F, T.O.P. (This is our place), 700 Nathan Road, Mong Kok, Kowloon",
+        "easting": 835504.0,
+        "edescription": null,
+        "ename": "Registered WiFi Access Points: HGC Global Communications Limited (APID 00794)",
+        "faciType": "WIFI",
+        "id": "990253910",
+        "nameStatus": "E",
+        "northing": 820171.0,
+        "score": 12.067490577697754,
+        "type": "F"
+    },
+    {
+        "caddress": "油麻地彌敦道700號T.O.P電梯內",
+        "cdescription": null,
+        "cname": "已登記的WiFi 熱點: 環球全域電訊有限公司 (APID 00793)",
+        "eaddress": "Block Inside all passenger lifts, T.O.P. (This is our place), 700 Nathan Road, Mong Kok, Kowloon",
+        "easting": 835504.0,
+        "edescription": null,
+        "ename": "Registered WiFi Access Points: HGC Global Communications Limited (APID 00793)",
+        "faciType": "WIFI",
+        "id": "990253908",
+        "nameStatus": "E",
+        "northing": 820171.0,
+        "score": 10.960616111755371,
+        "type": "F"
+    }
+]

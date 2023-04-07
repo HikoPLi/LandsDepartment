@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "香港中環士丹利街66-68號佳德商業大廈1字樓",
+        "cdescription": null,
+        "cname": "瘋狂小面",
+        "eaddress": "1/F, Kai Tak Commercial Building, 66-68 Stanley Street, Central, Hong Kong",
+        "easting": 833991.3,
+        "edescription": null,
+        "ename": "CRAZY NOODLES CENTRAL",
+        "faciType": "CLUB",
+        "id": "99082604",
+        "nameStatus": "E",
+        "northing": 816021.1,
+        "score": 54.56855010986328,
+        "type": "F"
+    },
+    {
+        "caddress": "G/F , TAI ON BUILDING, 828 CANTON ROAD,YAU MA TEI,KLN",
+        "cdescription": null,
+        "cname": "金華中西藥房",
+        "eaddress": "G/F , TAI ON BUILDING, 828 CANTON ROAD,YAU MA TEI,KLN",
+        "easting": 835399.6,
+        "edescription": null,
+        "ename": "MYER PHARMACY O/B MEAN GOOD LIMITED",
+        "faciType": "RP",
+        "id": "990104696",
+        "nameStatus": "E",
+        "northing": 819364.4,
+        "score": 15.813872337341309,
+        "type": "F"
+    }
+]

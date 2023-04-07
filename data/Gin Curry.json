@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "",
+        "cdescription": null,
+        "cname": "五旬節靳茂生小學",
+        "eaddress": "",
+        "easting": 832307.0,
+        "edescription": null,
+        "ename": "Pentecostal Gin Mao Sheng Primary School",
+        "faciType": null,
+        "id": "1502025020",
+        "nameStatus": "E",
+        "northing": 839626.0,
+        "score": 50.21369171142578,
+        "type": "S"
+    },
+    {
+        "caddress": "新界粉嶺五旬節靳茂生小學",
+        "cdescription": null,
+        "cname": "九龍五旬節會粉嶺堂",
+        "eaddress": "Pentecostal Gin Mao Sheng Primary School, Fanling, NT",
+        "easting": 832315.0,
+        "edescription": null,
+        "ename": "Kowloon Pentecostal Church Fanling Chapel",
+        "faciType": "CHU",
+        "id": "547778",
+        "nameStatus": "E",
+        "northing": 839636.0,
+        "score": 3.596730947494507,
+        "type": "F"
+    }
+]

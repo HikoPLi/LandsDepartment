@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "九龍油麻地茂林街2號1-16字樓及天台",
+        "cdescription": null,
+        "cname": "逸林酒店",
+        "eaddress": "G/F-16/F and R/F, 2 Mau Lam Street, Yau Ma Tei, Kowloon.",
+        "easting": 835760.9,
+        "edescription": null,
+        "ename": "NOBLE PARK HOTEL",
+        "faciType": "LLHG",
+        "id": "990105715",
+        "nameStatus": "E",
+        "northing": 818737.5,
+        "score": 6.60191011428833,
+        "type": "F"
+    },
+    {
+        "caddress": "九龍油麻地茂林街8號善一堂中心7字樓",
+        "cdescription": null,
+        "cname": "毅慈素食會",
+        "eaddress": "7/F, Shin Yat Tong Centre, 8 Mau Lam Street, Yau Ma Tei, Kowloon",
+        "easting": 835772.2,
+        "edescription": null,
+        "ename": "NGAI CHI VEGETARIAN CLUB",
+        "faciType": "CLUB",
+        "id": "99083518",
+        "nameStatus": "E",
+        "northing": 818738.3,
+        "score": 6.338274955749512,
+        "type": "F"
+    }
+]

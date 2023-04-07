@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "",
+        "cdescription": null,
+        "cname": "九龍海逸君綽酒店",
+        "eaddress": "",
+        "easting": 837865.0,
+        "edescription": null,
+        "ename": "Harbour Grand Kowloon",
+        "faciType": null,
+        "id": "1108242738",
+        "nameStatus": "E",
+        "northing": 818209.0,
+        "score": 25149.048828125,
+        "type": "B"
+    },
+    {
+        "caddress": "九龍紅磡德豐街20號海逸酒店21字樓部份",
+        "cdescription": null,
+        "cname": "健身中心",
+        "eaddress": "Portion of 21/F, Harbour Grand Kowloon, 20 Tak Fung Street, Hung Hom, Kowloon",
+        "easting": 837868.60989612,
+        "edescription": null,
+        "ename": "THE FITNESS CENTRE",
+        "faciType": "CLUB",
+        "id": "990401631",
+        "nameStatus": "E",
+        "northing": 818207.93355592,
+        "score": 139.16258239746094,
+        "type": "F"
+    }
+]

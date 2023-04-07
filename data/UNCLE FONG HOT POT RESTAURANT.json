@@ -1,0 +1,17 @@
+[
+    {
+        "caddress": "尖沙咀漆咸道南67-71號安年大廈",
+        "cdescription": null,
+        "cname": "已登記的WiFi 熱點: Hong Kong Telecommunications (HKT) Limited (APID 05641)",
+        "eaddress": "Unit Flat B, G/F, Block Super Pot Restaurant, Oriental Centre, 67-71 Chatham Rd,Tsim Sha Tsui",
+        "easting": 836153.0,
+        "edescription": null,
+        "ename": "Registered WiFi Access Points: Hong Kong Telecommunications (HKT) Limited (APID 05641)",
+        "faciType": "WIFI",
+        "id": "990263598",
+        "nameStatus": "E",
+        "northing": 817898.0,
+        "score": 0.9672747850418091,
+        "type": "F"
+    }
+]

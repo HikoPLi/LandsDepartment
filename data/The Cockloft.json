@@ -1,0 +1,62 @@
+[
+    {
+        "caddress": "香港上環德輔道中298號地下及閣樓",
+        "cdescription": null,
+        "cname": "7-11便利店-德輔道中298號",
+        "eaddress": "G/F & the Cockloft, No. 298 Des Voeux Road Central, Sheung Wan, Hong Kong",
+        "easting": 833598.0,
+        "edescription": null,
+        "ename": "7-Eleven Store-298 Des Voeux Road Central",
+        "faciType": "CVS",
+        "id": "531903",
+        "nameStatus": "E",
+        "northing": 816422.0,
+        "score": 34.90530776977539,
+        "type": "F"
+    },
+    {
+        "caddress": "旺角登打士街55號鴻達樓地下1號舖連閣樓",
+        "cdescription": null,
+        "cname": "7-11便利店-登打士街55號",
+        "eaddress": "Shop 1, G/F (Including the Cockloft therein), Hung Tat Building, No. 55 Dundas Street, Kowloon, Hong Kong",
+        "easting": 835738.306,
+        "edescription": null,
+        "ename": "7-Eleven Store-55 Dundas Street",
+        "faciType": "CVS",
+        "id": "21108777",
+        "nameStatus": "E",
+        "northing": 819637.623,
+        "score": 29.4946231842041,
+        "type": "F"
+    },
+    {
+        "caddress": "九龍慈雲山芳華里1-11號毓華樓地下D舖及閣樓",
+        "cdescription": null,
+        "cname": "7-11便利店-毓華樓",
+        "eaddress": "Flat D on the G/F including the Cockloft of Yuk Wah Mansion, Nos. 1-11 Fong Wah Lane, Tsz Wan Shan, Kowloon",
+        "easting": 838831.0,
+        "edescription": null,
+        "ename": "7-Eleven Store-Yuk Wah Mansion",
+        "faciType": "CVS",
+        "id": "532123",
+        "nameStatus": "E",
+        "northing": 823099.0,
+        "score": 25.5362606048584,
+        "type": "F"
+    },
+    {
+        "caddress": "新界荃灣川龍街22-26號，街市街10-22號，卓明樓地下4A舖及閣樓",
+        "cdescription": null,
+        "cname": "7-11便利店-卓明樓",
+        "eaddress": "Shop No. 4A, G/F., Including the Cockloft, Cheuk Ming Building, 22-26 Chuen Lung Street, 10-22 Tsuen Wan Market Street, Tsuen Wan, N.T.",
+        "easting": 830282.439,
+        "edescription": null,
+        "ename": "7-Eleven Store-Cheuk Ming Building",
+        "faciType": "CVS",
+        "id": "21160546",
+        "nameStatus": "E",
+        "northing": 825872.4373,
+        "score": 22.514665603637695,
+        "type": "F"
+    }
+]

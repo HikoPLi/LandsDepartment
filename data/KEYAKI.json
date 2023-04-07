@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "偉業街   151號",
+        "cdescription": null,
+        "cname": "天順工業大廈",
+        "eaddress": "151 WAI YIP STREET  ",
+        "easting": 840586.0,
+        "edescription": null,
+        "ename": "Keysky Industrial Building",
+        "faciType": null,
+        "id": "1109261328",
+        "nameStatus": "E",
+        "northing": 819336.0,
+        "score": 11.369370460510254,
+        "type": "B"
+    },
+    {
+        "caddress": "偉業街151號天順工業大廈地下B舖",
+        "cdescription": null,
+        "cname": "DENT DOCTOR",
+        "eaddress": "G/F, Block B, Keysky Industrial Building, No. 151, Wai Yip Street",
+        "easting": 840578.2453142,
+        "edescription": null,
+        "ename": "DENT DOCTOR",
+        "faciType": "RVMW",
+        "id": "990149430",
+        "nameStatus": "E",
+        "northing": 819329.06222297,
+        "score": 6.642339706420898,
+        "type": "F"
+    }
+]

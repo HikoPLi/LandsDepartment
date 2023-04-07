@@ -1,0 +1,62 @@
+[
+    {
+        "caddress": "榮昌邨",
+        "cdescription": null,
+        "cname": "榮俊樓",
+        "eaddress": "Wing Cheong Estate",
+        "easting": 834098.0,
+        "edescription": null,
+        "ename": "Wing Chun House",
+        "faciType": null,
+        "id": "1810095675",
+        "nameStatus": "E",
+        "northing": 821111.0,
+        "score": 45.49749755859375,
+        "type": "B"
+    },
+    {
+        "caddress": "",
+        "cdescription": null,
+        "cname": "聖公會嘉福榮真小學",
+        "eaddress": "",
+        "easting": 831949.0,
+        "edescription": null,
+        "ename": "S.K.H. KA FUK WING CHUN PRIMARY SCHOOL",
+        "faciType": null,
+        "id": "1503025203",
+        "nameStatus": "E",
+        "northing": 839322.0,
+        "score": 36.42536163330078,
+        "type": "S"
+    },
+    {
+        "caddress": "吉祥街   3號",
+        "cdescription": null,
+        "cname": "聖公會榮真小學",
+        "eaddress": "3 KAT CHEUNG CRESCENT  ",
+        "easting": 831555.0,
+        "edescription": null,
+        "ename": "S.K.H. WING CHUN PRIMARY SCHOOL",
+        "faciType": null,
+        "id": "1503025172",
+        "nameStatus": "E",
+        "northing": 839657.0,
+        "score": 32.96279525756836,
+        "type": "S"
+    },
+    {
+        "caddress": "西貢普通道74號地下Sun Chui Yuen Sea Food Restaurant",
+        "cdescription": null,
+        "cname": "已登記的WiFi 熱點: Hong Kong Telecommunications (HKT) Limited (APID 06569)",
+        "eaddress": "G/F, Block Sun Chui Yuen Sea Food Restaurant, 74 Po Tung Rd",
+        "easting": 845956.7,
+        "edescription": null,
+        "ename": "Registered WiFi Access Points: Hong Kong Telecommunications (HKT) Limited (APID 06569)",
+        "faciType": "WIFI",
+        "id": "990265484",
+        "nameStatus": "E",
+        "northing": 826995.1,
+        "score": 2.5817439556121826,
+        "type": "F"
+    }
+]

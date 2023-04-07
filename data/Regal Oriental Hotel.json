@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "沙浦道   30-38號",
+        "cdescription": null,
+        "cname": "富豪東方酒店",
+        "eaddress": "30-38 SA PO ROAD  ",
+        "easting": 837927.0,
+        "edescription": null,
+        "ename": "Regal Oriental Hotel",
+        "faciType": null,
+        "id": "1108227166",
+        "nameStatus": "E",
+        "northing": 821212.0,
+        "score": 25697.294921875,
+        "type": "B"
+    },
+    {
+        "caddress": "九龍城沙浦道30號",
+        "cdescription": null,
+        "cname": "富豪東方酒店充電站",
+        "eaddress": "30 Sa Po Road, Kowloon City",
+        "easting": 837903.4309,
+        "edescription": null,
+        "ename": "Regal Oriental Hotel Electric Vehicles Charging Point",
+        "faciType": "3CP",
+        "id": "CPEV00220",
+        "nameStatus": "E",
+        "northing": 821235.8088,
+        "score": 338.34161376953125,
+        "type": "F"
+    }
+]

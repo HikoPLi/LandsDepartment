@@ -1,0 +1,47 @@
+[
+    {
+        "caddress": "",
+        "cdescription": null,
+        "cname": "富成樓",
+        "eaddress": "",
+        "easting": 840848.0,
+        "edescription": null,
+        "ename": "",
+        "faciType": null,
+        "id": "1810012386",
+        "nameStatus": "E",
+        "northing": 815874.0,
+        "score": 742.686767578125,
+        "type": "S"
+    },
+    {
+        "caddress": "  輞井村 57A-57B號",
+        "cdescription": null,
+        "cname": "富成閣",
+        "eaddress": "57A-57B   MONG TSENG TSUEN",
+        "easting": 818243.0,
+        "edescription": null,
+        "ename": "Rich Castle",
+        "faciType": null,
+        "id": "1810011822",
+        "nameStatus": "E",
+        "northing": 837519.0,
+        "score": 585.5028076171875,
+        "type": "S"
+    },
+    {
+        "caddress": "粉嶺聯發街22號聯旺樓地下",
+        "cdescription": null,
+        "cname": "富成汽車維修中心",
+        "eaddress": "G/F, Luen Wong Building, No. 22, Luen Fat Street, Fanling",
+        "easting": 832641.63092281,
+        "edescription": null,
+        "ename": "FU SHING CAR REPAIR CENTRE",
+        "faciType": "RVMW",
+        "id": "990150850",
+        "nameStatus": "E",
+        "northing": 839845.8827856,
+        "score": 430.4656982421875,
+        "type": "F"
+    }
+]

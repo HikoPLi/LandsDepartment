@@ -1,0 +1,62 @@
+[
+    {
+        "caddress": "大貴街   22號",
+        "cdescription": null,
+        "cname": "亞太通信衞星有限公司",
+        "eaddress": "22 DAI KWAI STREET  ",
+        "easting": 837368.0,
+        "edescription": null,
+        "ename": "APT SATELLITE COMPANY LIMITED",
+        "faciType": null,
+        "id": "1810026276",
+        "nameStatus": "E",
+        "northing": 834836.0,
+        "score": 539.7107543945312,
+        "type": "S"
+    },
+    {
+        "caddress": "大貴街   22號",
+        "cdescription": null,
+        "cname": "亞太通信衛星測控中心",
+        "eaddress": "22 DAI KWAI STREET  ",
+        "easting": 837383.0,
+        "edescription": null,
+        "ename": "APT Satellite Control Center",
+        "faciType": null,
+        "id": "1106125701",
+        "nameStatus": "E",
+        "northing": 834838.0,
+        "score": 539.7107543945312,
+        "type": "B"
+    },
+    {
+        "caddress": "大貴街   22號",
+        "cdescription": null,
+        "cname": "亞太通信衛星測控中心",
+        "eaddress": "22 DAI KWAI STREET  ",
+        "easting": 837428.0,
+        "edescription": null,
+        "ename": "APT Satellite Control Center",
+        "faciType": null,
+        "id": "1106125713",
+        "nameStatus": "E",
+        "northing": 834838.0,
+        "score": 539.7107543945312,
+        "type": "B"
+    },
+    {
+        "caddress": "機場郵政局",
+        "cdescription": null,
+        "cname": "編號APT郵箱",
+        "eaddress": "Airport Post Office",
+        "easting": 811349.0,
+        "edescription": null,
+        "ename": "Street Posting Box No. APT",
+        "faciType": "SPB",
+        "id": "84070293",
+        "nameStatus": "E",
+        "northing": 819631.0,
+        "score": 224.78848266601562,
+        "type": "F"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "caddress": "",
+        "cdescription": null,
+        "cname": "樂景樓",
+        "eaddress": "",
+        "easting": 838355.0,
+        "edescription": null,
+        "ename": "Happy House",
+        "faciType": null,
+        "id": "1810016513",
+        "nameStatus": "E",
+        "northing": 816676.0,
+        "score": 14870.14453125,
+        "type": "S"
+    },
+    {
+        "caddress": "教育路   43-49號",
+        "cdescription": null,
+        "cname": "快活樓",
+        "eaddress": "43-49 KAU YUK ROAD  ",
+        "easting": 820740.0,
+        "edescription": null,
+        "ename": "Happy House",
+        "faciType": null,
+        "id": "1105736012",
+        "nameStatus": "E",
+        "northing": 833726.0,
+        "score": 14697.140625,
+        "type": "B"
+    },
+    {
+        "caddress": "新界元朗教育路43-49號快活樓地下1號舖",
+        "cdescription": null,
+        "cname": "7-11便利店-快活樓",
+        "eaddress": "Shop No. 1 on G/F, Happy House, Nos. 43-49 Kau Yuk Road, Yuen Long, N.T.",
+        "easting": 820740.0,
+        "edescription": null,
+        "ename": "7-Eleven Store-Happy House",
+        "faciType": "CVS",
+        "id": "533063",
+        "nameStatus": "E",
+        "northing": 833726.0,
+        "score": 212.9993438720703,
+        "type": "F"
+    },
+    {
+        "caddress": "元朗教育路43-49號快活樓地下1號舖",
+        "cdescription": null,
+        "cname": "回收機構及收集點： 7-ELEVEN",
+        "eaddress": "Shop 1, G/F, Happy House, Nos. 43-49 Kau Yuk Road, Yuen Long",
+        "easting": 820740.0,
+        "edescription": null,
+        "ename": "Recycling Organisations and Collection Points: 7-ELEVEN",
+        "faciType": "DO_NGO",
+        "id": "99089243",
+        "nameStatus": "E",
+        "northing": 833726.0,
+        "score": 15.558566093444824,
+        "type": "F"
+    }
+]

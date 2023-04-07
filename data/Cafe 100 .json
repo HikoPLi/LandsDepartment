@@ -1,0 +1,17 @@
+[
+    {
+        "caddress": "香港置地廣場 咖啡廳10-108號舖",
+        "cdescription": null,
+        "cname": "已登記的WiFi 熱點: Hong Kong Telecommunications (HKT) Limited (APID 05142)",
+        "eaddress": "Unit Shop 10-108, Block Cafe Landmark, The Landmark, Central",
+        "easting": 834312.9,
+        "edescription": null,
+        "ename": "Registered WiFi Access Points: Hong Kong Telecommunications (HKT) Limited (APID 05142)",
+        "faciType": "WIFI",
+        "id": "990262602",
+        "nameStatus": "E",
+        "northing": 815741.5,
+        "score": 1.4569758176803589,
+        "type": "F"
+    }
+]

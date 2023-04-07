@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "香港薄扶林職業訓練局薄扶林大樓",
+        "cdescription": null,
+        "cname": "中華廚藝學院",
+        "eaddress": "Vocational Training Council Pokfulam Complex, Pok Fu Lam, HK",
+        "easting": 832025.747,
+        "edescription": null,
+        "ename": "Chinese Cuisine Training Institute",
+        "faciType": "VTI",
+        "id": "538185",
+        "nameStatus": "E",
+        "northing": 813471.871,
+        "score": 66.03570556640625,
+        "type": "F"
+    },
+    {
+        "caddress": "薄扶林道   145號",
+        "cdescription": "職業訓練局薄扶林大樓 (現稱)",
+        "cname": "香港中華廚藝學院 (別稱)",
+        "eaddress": "145 POK FU LAM ROAD  ",
+        "easting": 832036.0,
+        "edescription": "VTC Pokfulam Complex (Current Name)",
+        "ename": "Chinese Cuisine Training Institute Hong Kong (Other Name)",
+        "faciType": null,
+        "id": "1103135042",
+        "nameStatus": "O",
+        "northing": 813464.0,
+        "score": 45.01290512084961,
+        "type": "B"
+    }
+]

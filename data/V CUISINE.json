@@ -1,0 +1,17 @@
+[
+    {
+        "caddress": "中環港景街1號國際金融中心商場3樓3101-3107號店",
+        "cdescription": null,
+        "cname": "已登記的WiFi 熱點: Y5ZONE Limited (APID 08699)",
+        "eaddress": "Unit 3101 - 3107, Podium 3/F, Block Cuisine Cuisine, IFC Mall, Central",
+        "easting": 834353.4,
+        "edescription": null,
+        "ename": "Registered WiFi Access Points: Y5ZONE Limited (APID 08699)",
+        "faciType": "WIFI",
+        "id": "990269742",
+        "nameStatus": "E",
+        "northing": 816257.8,
+        "score": 2.7680814266204834,
+        "type": "F"
+    }
+]

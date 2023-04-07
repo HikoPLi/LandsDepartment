@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "山貝路   1號",
+        "cdescription": null,
+        "cname": "同心村",
+        "eaddress": "1 SHAN PUI ROAD  ",
+        "easting": 821446.0,
+        "edescription": null,
+        "ename": "",
+        "faciType": null,
+        "id": "1910056868",
+        "nameStatus": "E",
+        "northing": 834812.0,
+        "score": 567.92333984375,
+        "type": "S"
+    },
+    {
+        "caddress": "青山醫院",
+        "cdescription": null,
+        "cname": "同心樓(F座)",
+        "eaddress": "CASTLE PEAK HOSPITAL",
+        "easting": 815345.0,
+        "edescription": null,
+        "ename": "Unity House (Block F)",
+        "faciType": null,
+        "id": "1108522230",
+        "nameStatus": "E",
+        "northing": 830012.0,
+        "score": 496.4084777832031,
+        "type": "B"
+    }
+]

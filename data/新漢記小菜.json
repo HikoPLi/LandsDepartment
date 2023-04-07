@@ -1,0 +1,47 @@
+[
+    {
+        "caddress": "通州街   51-67號",
+        "cdescription": null,
+        "cname": "新漢大樓",
+        "eaddress": "51-67 TUNG CHAU STREET  ",
+        "easting": 834956.0,
+        "edescription": null,
+        "ename": "Sun Hon House",
+        "faciType": null,
+        "id": "1108231882",
+        "nameStatus": "E",
+        "northing": 820464.0,
+        "score": 49.3833122253418,
+        "type": "B"
+    },
+    {
+        "caddress": "新界元朗元朗安寧路100-108號安利大樓1字樓B&C室",
+        "cdescription": null,
+        "cname": "新漢宮酒店",
+        "eaddress": "Flat B&C, 1/F, On Lee Building,100-108 Yuen Long On Ning Road,Yuen Long, New Territories.",
+        "easting": 820601.5687889,
+        "edescription": null,
+        "ename": "NEW HON KUNG HOTEL",
+        "faciType": "LLHG",
+        "id": "99082375",
+        "nameStatus": "E",
+        "northing": 834104.37174181,
+        "score": 46.27412033081055,
+        "type": "F"
+    },
+    {
+        "caddress": "九龍大角咀新漢大樓",
+        "cdescription": null,
+        "cname": "大角咀浸信會",
+        "eaddress": "Sun Hon House, Tai Kok Tsui, KLN",
+        "easting": 834956.0,
+        "edescription": null,
+        "ename": "Tai Kok Tsui Baptist Church",
+        "faciType": "CHU",
+        "id": "535177",
+        "nameStatus": "E",
+        "northing": 820464.0,
+        "score": 3.2139480113983154,
+        "type": "F"
+    }
+]

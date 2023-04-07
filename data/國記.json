@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "下亞厘畢道   2號",
+        "cdescription": null,
+        "cname": "外國記者會",
+        "eaddress": "2 LOWER ALBERT ROAD  ",
+        "easting": 834112.0,
+        "edescription": null,
+        "ename": "The Foreign Correspondent's Club",
+        "faciType": null,
+        "id": "1103126757",
+        "nameStatus": "E",
+        "northing": 815717.0,
+        "score": 390.2510070800781,
+        "type": "B"
+    },
+    {
+        "caddress": "香港中環下亞厘畢道2號北座",
+        "cdescription": null,
+        "cname": "香港外國記者會",
+        "eaddress": "North Block, 2 Lower Albert Road,Central, Hong Kong",
+        "easting": 834116.0,
+        "edescription": null,
+        "ename": "THE FOREIGN CORRESPONDENTS' CLUB, HONG KONG",
+        "faciType": "CLUB",
+        "id": "99082424",
+        "nameStatus": "E",
+        "northing": 815729.1,
+        "score": 346.60528564453125,
+        "type": "F"
+    }
+]

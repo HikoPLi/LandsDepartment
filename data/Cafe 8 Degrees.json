@@ -1,0 +1,17 @@
+[
+    {
+        "caddress": "土瓜灣木廠街199號8度海逸酒店地下Café 8 Degrees",
+        "cdescription": null,
+        "cname": "已登記的WiFi 熱點: 環球全域電訊有限公司 (APID 01177)",
+        "eaddress": "Unit Cafe 8 Degrees, G/F, Harbour Plaza 8 Degree, 199 Mok Cheong Street, Tokwan Wan",
+        "easting": 837686.8,
+        "edescription": null,
+        "ename": "Registered WiFi Access Points: HGC Global Communications Limited (APID 01177)",
+        "faciType": "WIFI",
+        "id": "990254676",
+        "nameStatus": "E",
+        "northing": 820437.4,
+        "score": 19.393768310546875,
+        "type": "F"
+    }
+]

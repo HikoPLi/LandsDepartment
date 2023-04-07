@@ -1,0 +1,47 @@
+[
+    {
+        "caddress": "上水新豐路麥當勞快餐店出",
+        "cdescription": null,
+        "cname": "Wi-Fi.HK 熱點位置: 電訊盈科電話亭",
+        "eaddress": "Outside McDonald's Restaurant, San Fung Avenue, Sheung Shui",
+        "easting": 831352.3,
+        "edescription": null,
+        "ename": "Wi-Fi.HK Hotspot Locations: PCCW Phone Booth",
+        "faciType": "WIFIHK",
+        "id": "990121428",
+        "nameStatus": "E",
+        "northing": 840337.1,
+        "score": 2.7123944759368896,
+        "type": "F"
+    },
+    {
+        "caddress": "深水埗荔枝角道1號麥當勞快餐店出",
+        "cdescription": null,
+        "cname": "Wi-Fi.HK 熱點位置: 電訊盈科電話亭",
+        "eaddress": "Outside McDonald's Restaurant, 1 Lai Chi Kok Road, Sham Shui Po",
+        "easting": 835415.5,
+        "edescription": null,
+        "ename": "Wi-Fi.HK Hotspot Locations: PCCW Phone Booth",
+        "faciType": "WIFIHK",
+        "id": "990121420",
+        "nameStatus": "E",
+        "northing": 820358.5,
+        "score": 2.2957208156585693,
+        "type": "F"
+    },
+    {
+        "caddress": "大圍車公廟路69號顯徑商場1樓近快餐店",
+        "cdescription": null,
+        "cname": "已登記的WiFi 熱點: 環球全域電訊有限公司 (APID 00883)",
+        "eaddress": "Unit near Fast Food, 1/F, Hin Keng Shopping Center, 69 Che Kung Miu Road",
+        "easting": 835765.2,
+        "edescription": null,
+        "ename": "Registered WiFi Access Points: HGC Global Communications Limited (APID 00883)",
+        "faciType": "WIFI",
+        "id": "990254088",
+        "nameStatus": "E",
+        "northing": 824941.4,
+        "score": 2.2957208156585693,
+        "type": "F"
+    }
+]

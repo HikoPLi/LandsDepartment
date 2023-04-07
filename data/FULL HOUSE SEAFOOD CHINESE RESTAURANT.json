@@ -1,0 +1,47 @@
+[
+    {
+        "caddress": "  元嶺 86號",
+        "cdescription": null,
+        "cname": "盈峰",
+        "eaddress": "86   YUEN LENG",
+        "easting": 834088.0,
+        "edescription": null,
+        "ename": "Full House",
+        "faciType": null,
+        "id": "1810012142",
+        "nameStatus": "E",
+        "northing": 837107.0,
+        "score": 552.1983642578125,
+        "type": "S"
+    },
+    {
+        "caddress": "九龍旺角彌敦道607號 新興大廈21字樓2110 室",
+        "cdescription": null,
+        "cname": "華府賓館",
+        "eaddress": "Flat 2110, 21/F, Sun Hing Building, 607 Nathan Road, Mong Kok, Kowloon.",
+        "easting": 835517.9,
+        "edescription": null,
+        "ename": "WHA FULL HOUSE",
+        "faciType": "LLHG",
+        "id": "990107806",
+        "nameStatus": "E",
+        "northing": 819774.1,
+        "score": 499.7008056640625,
+        "type": "F"
+    },
+    {
+        "caddress": "福華街37號A地下",
+        "cdescription": null,
+        "cname": "樂域汽車服務",
+        "eaddress": "G/F, No. 37A, Fuk Wa Street",
+        "easting": 835171.3681186,
+        "edescription": null,
+        "ename": "FULL HOUSE MOTOR SERVICE",
+        "faciType": "RVMW",
+        "id": "990150600",
+        "nameStatus": "E",
+        "northing": 821043.71744716,
+        "score": 456.31854248046875,
+        "type": "F"
+    }
+]
