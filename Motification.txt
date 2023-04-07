@@ -1,0 +1,22 @@
+April 4, 2023:
+    Create main.py and call API successfully.
+    Use downloadXMLfromWeb.download to download the .xml file on the website.
+
+April 5, 2023:
+    Use APIrequest.saveData to save data as JSON files.
+    Use fetchLocationFromJSON.location and .findall to find keywords in the JSON file.
+
+April 6, 2023:
+    Fix bugs, including:
+        Complex symbols
+    Functions: 
+        restaurantName = restaurantName.replace("/", " ")
+        restaurantName = restaurantName.replace("%", " ")
+        restaurantName = restaurantName.replace("!", " ")
+
+April 7, 2023:
+    Test and find bugs.
+    Problems:
+        Network.
+        The error of "return":
+            UnboundLocalError: local variable 'east' referenced before assignment

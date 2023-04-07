@@ -21,7 +21,7 @@ def findAll(jsonFile):
         if i == resultAmount:
             break
 
-    # return east, north
+    return east, north
 
 
 def location(keyword):
