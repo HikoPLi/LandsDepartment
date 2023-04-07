@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "九龍江西街２號地下",
+        "cdescription": null,
+        "cname": "聖公會牧愛幼稚園",
+        "eaddress": "G/F 2 KIANG HSI STREET KOWLOON",
+        "easting": 837309.8,
+        "edescription": null,
+        "ename": "S.K.H. GOOD SHEPHERD KINDERGARTEN",
+        "faciType": "KG",
+        "id": "84049483",
+        "nameStatus": "E",
+        "northing": 819519.9,
+        "score": 34.88636779785156,
+        "type": "F"
+    },
+    {
+        "caddress": "九龍江西街２號地下",
+        "cdescription": null,
+        "cname": "聖公會牧愛幼稚園",
+        "eaddress": "G/F 2 KIANG HSI STREET KOWLOON",
+        "easting": 837311.4,
+        "edescription": null,
+        "ename": "S.K.H. GOOD SHEPHERD KINDERGARTEN",
+        "faciType": "KG",
+        "id": "84067942",
+        "nameStatus": "E",
+        "northing": 819518.0,
+        "score": 34.88636779785156,
+        "type": "F"
+    }
+]

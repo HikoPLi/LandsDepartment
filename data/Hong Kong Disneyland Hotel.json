@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "香港迪士尼樂園度假區",
+        "cdescription": null,
+        "cname": "香港迪士尼樂園酒店",
+        "eaddress": "HONG KONG DISNEYLAND RESORT",
+        "easting": 822586.0,
+        "edescription": null,
+        "ename": "Hong Kong Disneyland Hotel",
+        "faciType": null,
+        "id": "1103044062",
+        "nameStatus": "E",
+        "northing": 818783.0,
+        "score": 22450.173828125,
+        "type": "B"
+    },
+    {
+        "caddress": "離島 神奇道",
+        "cdescription": null,
+        "cname": "香港迪士尼樂園酒店",
+        "eaddress": "MAGIC ROAD, ISLANDS",
+        "easting": 822523.719,
+        "edescription": null,
+        "ename": "Hong Kong Disneyland Hotel",
+        "faciType": "CPO",
+        "id": "21185624",
+        "nameStatus": "E",
+        "northing": 818867.409,
+        "score": 13462.2138671875,
+        "type": "F"
+    }
+]

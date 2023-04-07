@@ -1,5 +1,7 @@
 import json
 from re import findall
+# Function
+import convertWGS84ToEPSG22326
 
 
 def findAll(jsonFile):
@@ -8,23 +10,22 @@ def findAll(jsonFile):
 
     i = 0
     while i < resultAmount:
-
-        english_name = jsonObject[i]['ename']
-        chinese_name = jsonObject[i]['cname']
+        englishName = jsonObject[i]['ename']
+        chineseName = jsonObject[i]['cname']
         east = jsonObject[i]['easting']
         north = jsonObject[i]['northing']
         string_address = f"{east},{north}"
         i = i + 1
 
-        print(string_address, english_name, chinese_name)
+        print(string_address, englishName, chineseName)
 
         if i == resultAmount:
             break
 
-    return east, north
+    convertWGS84ToEPSG22326.convert(east, north)
 
 
-def location(keyword):
+def convert_address_to_WGS84(keyword):
     # access path: "..../LandsDepartment/data"
     with open(f"{keyword}.json") as JSONfile:
 

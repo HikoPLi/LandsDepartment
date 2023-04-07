@@ -1,0 +1,62 @@
+[
+    {
+        "caddress": "",
+        "cdescription": null,
+        "cname": "興樂樓",
+        "eaddress": "",
+        "easting": 831665.0,
+        "edescription": null,
+        "ename": "Hing Lok House",
+        "faciType": null,
+        "id": "1100008599",
+        "nameStatus": "E",
+        "northing": 825186.0,
+        "score": 634.8272094726562,
+        "type": "B"
+    },
+    {
+        "caddress": "葵涌葵興邨興樂樓地下一號室",
+        "cdescription": null,
+        "cname": "荃灣商會朱昌幼稚園",
+        "eaddress": "UNIT NO 1, G/F., HING LOK HOUSE, KWAI HING ESTATE, KWAI CHUNG, NEW TERRITORIES",
+        "easting": 831657.9,
+        "edescription": null,
+        "ename": "TSUEN WAN TRADE ASSOCIATION CHU CHEONG KINDERGARTEN",
+        "faciType": "KG",
+        "id": "84049513",
+        "nameStatus": "E",
+        "northing": 825192.2,
+        "score": 30.069211959838867,
+        "type": "F"
+    },
+    {
+        "caddress": "葵涌葵興邨興樂樓地下一號室",
+        "cdescription": null,
+        "cname": "荃灣商會朱昌幼稚園",
+        "eaddress": "UNIT NO 1, G/F., HING LOK HOUSE, KWAI HING ESTATE, KWAI CHUNG, NEW TERRITORIES",
+        "easting": 831657.9,
+        "edescription": null,
+        "ename": "TSUEN WAN TRADE ASSOCIATION CHU CHEONG KINDERGARTEN",
+        "faciType": "KG",
+        "id": "84068276",
+        "nameStatus": "E",
+        "northing": 825191.3,
+        "score": 30.069211959838867,
+        "type": "F"
+    },
+    {
+        "caddress": "葵涌葵興邨興樂樓地下一號室",
+        "cdescription": null,
+        "cname": "荃灣商會朱昌幼稚園",
+        "eaddress": "UNIT NO 1, G/F., HING LOK HOUSE, KWAI HING ESTATE, KWAI CHUNG, NEW TERRITORIES",
+        "easting": 831665.0,
+        "edescription": null,
+        "ename": "TSUEN WAN TRADE ASSOCIATION CHU CHEONG KINDERGARTEN",
+        "faciType": "KG",
+        "id": "990114832",
+        "nameStatus": "E",
+        "northing": 825186.0,
+        "score": 30.069211959838867,
+        "type": "F"
+    }
+]

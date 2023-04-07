@@ -1,0 +1,62 @@
+[
+    {
+        "caddress": "",
+        "cdescription": null,
+        "cname": "靈隱寺",
+        "eaddress": "",
+        "easting": 805365.0,
+        "edescription": null,
+        "ename": "Ling Yan Temple",
+        "faciType": null,
+        "id": "1502018106",
+        "nameStatus": "E",
+        "northing": 812118.0,
+        "score": 22359.248046875,
+        "type": "S"
+    },
+    {
+        "caddress": "靈隱寺",
+        "cdescription": null,
+        "cname": "成就殿",
+        "eaddress": "Ling Yan Temple",
+        "easting": 805352.0,
+        "edescription": null,
+        "ename": "",
+        "faciType": null,
+        "id": "1109179558",
+        "nameStatus": "E",
+        "northing": 812100.0,
+        "score": 229.1509246826172,
+        "type": "B"
+    },
+    {
+        "caddress": "靈隱寺",
+        "cdescription": null,
+        "cname": "護法殿",
+        "eaddress": "Ling Yan Temple",
+        "easting": 805377.0,
+        "edescription": null,
+        "ename": "",
+        "faciType": null,
+        "id": "1109178977",
+        "nameStatus": "E",
+        "northing": 812087.0,
+        "score": 229.1509246826172,
+        "type": "B"
+    },
+    {
+        "caddress": "靈隱寺",
+        "cdescription": null,
+        "cname": "大雄寶殿",
+        "eaddress": "Ling Yan Temple",
+        "easting": 805350.0,
+        "edescription": null,
+        "ename": "",
+        "faciType": null,
+        "id": "1109185391",
+        "nameStatus": "E",
+        "northing": 812142.0,
+        "score": 229.1509246826172,
+        "type": "B"
+    }
+]

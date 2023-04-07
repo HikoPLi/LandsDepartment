@@ -1,0 +1,47 @@
+[
+    {
+        "caddress": "G/F, 88, NGA TSIN WAI ROAD, KOWLOON CITY, KLN",
+        "cdescription": null,
+        "cname": "潮發葯房",
+        "eaddress": "G/F, 88, NGA TSIN WAI ROAD, KOWLOON CITY, KLN",
+        "easting": 837578.5,
+        "edescription": null,
+        "ename": "CHIU FAT DISPENSARY O/B WELLPONDEN CO. LTD.",
+        "faciType": "RP",
+        "id": "99075262",
+        "nameStatus": "E",
+        "northing": 821120.9,
+        "score": 23.44769859313965,
+        "type": "F"
+    },
+    {
+        "caddress": "大嶼山愉景灣愉景灣康樂會1樓中菜館入口附近",
+        "cdescription": null,
+        "cname": "Wi-Fi.HK 熱點位置: 愉景灣康樂會",
+        "eaddress": "Near Entrance, Chinese Restaurant, 1/F, Discovery Bay Recreation Club, Discovery Bay, Lantau Island",
+        "easting": 819680.1,
+        "edescription": null,
+        "ename": "Wi-Fi.HK Hotspot Locations: Discovery Bay Recreation Club",
+        "faciType": "WIFIHK",
+        "id": "990119940",
+        "nameStatus": "E",
+        "northing": 817466.1,
+        "score": 0.673703670501709,
+        "type": "F"
+    },
+    {
+        "caddress": "大嶼山愉景灣愉景灣康樂會1樓中菜館VIP房附近",
+        "cdescription": null,
+        "cname": "Wi-Fi.HK 熱點位置: 愉景灣康樂會",
+        "eaddress": "Near VIP Room, Chinese Restaurant, 1/F, Discovery Bay Recreation Club, Discovery Bay, Lantau Island",
+        "easting": 819669.8,
+        "edescription": null,
+        "ename": "Wi-Fi.HK Hotspot Locations: Discovery Bay Recreation Club",
+        "faciType": "WIFIHK",
+        "id": "990119942",
+        "nameStatus": "E",
+        "northing": 817465.0,
+        "score": 0.673703670501709,
+        "type": "F"
+    }
+]

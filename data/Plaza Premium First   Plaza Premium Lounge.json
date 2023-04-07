@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "九龍尖沙咀彌敦道40號 重慶大廈A座6字樓A6及A7室",
+        "cdescription": null,
+        "cname": "PREMIUM LOUNGE",
+        "eaddress": "Flat A6 & A7, 6/F, Block A, Chungking Mansion, 40 Nathan Road, Tsim Sha Tsui, Kowloon",
+        "easting": 835821.88901634,
+        "edescription": null,
+        "ename": "PREMIUM LOUNGE",
+        "faciType": "LLHG",
+        "id": "990404303",
+        "nameStatus": "E",
+        "northing": 817499.15927153,
+        "score": 286.4191589355469,
+        "type": "F"
+    },
+    {
+        "caddress": "灣仔港灣道18號中環廣場",
+        "cdescription": null,
+        "cname": "已登記的WiFi 熱點: Inter-touch Company Limited (APID 06751)",
+        "eaddress": "35/F, Block Plaza Premium Lounge, Central Plaza, 18 Harbour Road",
+        "easting": 835932.0,
+        "edescription": null,
+        "ename": "Registered WiFi Access Points: Inter-touch Company Limited (APID 06751)",
+        "faciType": "WIFI",
+        "id": "990265848",
+        "nameStatus": "E",
+        "northing": 815701.0,
+        "score": 7.925300121307373,
+        "type": "F"
+    }
+]

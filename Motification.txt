@@ -12,11 +12,21 @@ April 6, 2023:
     Functions: 
         restaurantName = restaurantName.replace("/", " ")
         restaurantName = restaurantName.replace("%", " ")
-        restaurantName = restaurantName.replace("!", " ")
+        restaurant Name = restaurant Name.replace("!", " ")
 
 April 7, 2023:
     Test and find bugs.
     Problems:
         Network.
         The error of "return":
-            UnboundLocalError: local variable 'east' referenced before assignment
+        
+            UnboundLocalError: local variable 'east' referenced before assignment.
+
+        API: http://www.geodetic.gov.hk/transform/v2/?<Variables>=<Input coordinates>
+        -> This web service allows users to transform coordinates between different coordinate systems.
+        For more details, please refer to the data dictionary or user manual.
+
+    Add:
+    if lp["DIST"] == "17":  # "17" is district code
+    # -> New Restrictions (District code)
+

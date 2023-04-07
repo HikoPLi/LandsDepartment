@@ -1,0 +1,62 @@
+[
+    {
+        "caddress": "暢達路   9號",
+        "cdescription": null,
+        "cname": "富豪機場酒店",
+        "eaddress": "9 CHEONG TAT ROAD  ",
+        "easting": 811285.0,
+        "edescription": null,
+        "ename": "Regal Airport Hotel",
+        "faciType": null,
+        "id": "1103043653",
+        "nameStatus": "E",
+        "northing": 819998.0,
+        "score": 24784.93359375,
+        "type": "B"
+    },
+    {
+        "caddress": "赤鱲角暢達路9號",
+        "cdescription": null,
+        "cname": "富豪機場酒店充電站",
+        "eaddress": "9 Cheong Tat Rd, Chek Lap Kok",
+        "easting": 811296.4346,
+        "edescription": null,
+        "ename": "Regal Airport Hotel Electric Vehicles Charging Point",
+        "faciType": "3CP",
+        "id": "CPEV00217",
+        "nameStatus": "E",
+        "northing": 820064.129,
+        "score": 334.1632080078125,
+        "type": "F"
+    },
+    {
+        "caddress": "新界赤鱲角暢達路9號富豪機場酒店3-4字樓(部份)",
+        "cdescription": null,
+        "cname": "OM SPA",
+        "eaddress": "3/F - 4/F (Portion), Regal Airport Hotel, 9 Cheong Tat Road, Chek Lap Kok, New Territories",
+        "easting": 811268.4,
+        "edescription": null,
+        "ename": "OM SPA",
+        "faciType": "CLUB",
+        "id": "99082712",
+        "nameStatus": "E",
+        "northing": 820005.8,
+        "score": 178.93174743652344,
+        "type": "F"
+    },
+    {
+        "caddress": "香港赤鱲角暢達路9號富豪機場酒店地下G03A號舖",
+        "cdescription": null,
+        "cname": "Wi-Fi.HK 熱點位置: 中銀香港 - 機場暢達路分行",
+        "eaddress": "Shop No. G03A, G/F, Regal Airport Hotel, 9 Cheong Tat Road, Chek Lap Kok, Hong Kong",
+        "easting": 811274.6,
+        "edescription": null,
+        "ename": "Wi-Fi.HK Hotspot Locations: BOCHK - Airport Cheong Tat Road Branch",
+        "faciType": "WIFIHK",
+        "id": "990239382",
+        "nameStatus": "E",
+        "northing": 820030.1,
+        "score": 19.1469783782959,
+        "type": "F"
+    }
+]

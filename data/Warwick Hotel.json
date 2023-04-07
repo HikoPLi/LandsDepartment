@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "",
+        "cdescription": null,
+        "cname": "華威酒店",
+        "eaddress": "",
+        "easting": 821363.0,
+        "edescription": null,
+        "ename": "Warwick Hotel",
+        "faciType": null,
+        "id": "1109183937",
+        "nameStatus": "E",
+        "northing": 807690.0,
+        "score": 21391.744140625,
+        "type": "B"
+    },
+    {
+        "caddress": "長洲東灣第1147號地段",
+        "cdescription": null,
+        "cname": "長洲華威酒店",
+        "eaddress": "CC Lot 1147, East Bay,Cheung Chau.",
+        "easting": 821364.3,
+        "edescription": null,
+        "ename": "CHEUNG CHAU WARWICK HOTEL",
+        "faciType": "LLHG",
+        "id": "99079889",
+        "nameStatus": "E",
+        "northing": 807691.8,
+        "score": 793.8665161132812,
+        "type": "F"
+    }
+]

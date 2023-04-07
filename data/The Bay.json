@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "青山公路　－　汀九段   123號",
+        "cdescription": null,
+        "cname": "汀蘭居",
+        "eaddress": "123 CASTLE PEAK ROAD - TING KAU  ",
+        "easting": 827547.0,
+        "edescription": null,
+        "ename": "The Bay Bridge",
+        "faciType": null,
+        "id": "1100007998",
+        "nameStatus": "E",
+        "northing": 825397.0,
+        "score": 415.7817687988281,
+        "type": "B"
+    },
+    {
+        "caddress": "香港 香港仔黃竹坑",
+        "cdescription": null,
+        "cname": "Wi-Fi.HK 熱點位置: 海洋公園 - 灣景餐廳",
+        "eaddress": "Wong Chuk Hang, Aberdeen, Hong Kong",
+        "easting": 836127.8,
+        "edescription": null,
+        "ename": "Wi-Fi.HK Hotspot Locations: The Bayview Restaurant, Ocean Park",
+        "faciType": "WIFIHK",
+        "id": "990239916",
+        "nameStatus": "E",
+        "northing": 812018.3,
+        "score": 24.964536666870117,
+        "type": "F"
+    }
+]
