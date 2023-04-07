@@ -1,0 +1,47 @@
+[
+    {
+        "caddress": "",
+        "cdescription": null,
+        "cname": "青山腳眺望處",
+        "eaddress": "",
+        "easting": 814979.0,
+        "edescription": null,
+        "ename": "TSING SHAN KEUK LOOK-OUT",
+        "faciType": null,
+        "id": "1810045632",
+        "nameStatus": "E",
+        "northing": 827818.0,
+        "score": 78.54414367675781,
+        "type": "S"
+    },
+    {
+        "caddress": "新界沙田沙田嶺",
+        "cdescription": null,
+        "cname": "大埔道眺望處",
+        "eaddress": "Sha Tin Heights, Sha Tin, NT",
+        "easting": 834685.946,
+        "edescription": null,
+        "ename": "Tai Po Road Look-out",
+        "faciType": "VPT",
+        "id": "532235",
+        "nameStatus": "E",
+        "northing": 824526.589,
+        "score": 36.40102005004883,
+        "type": "F"
+    },
+    {
+        "caddress": "",
+        "cdescription": null,
+        "cname": "渣甸山二號食水配水庫 (前稱)",
+        "eaddress": "",
+        "easting": 837960.0,
+        "edescription": "JARDINE'S LOOKOUT NO.2 FRESH WATER SERVICE RESERVOIR (Current Name)",
+        "ename": "JADINE'S LOOK OUT NO.2 FRESH WATER SERVICE RESERVOIR (COVERED) (Previous Name)",
+        "faciType": null,
+        "id": "1503015744",
+        "nameStatus": "R",
+        "northing": 813759.0,
+        "score": 23.839365005493164,
+        "type": "S"
+    }
+]

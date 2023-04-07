@@ -1,0 +1,47 @@
+[
+    {
+        "caddress": "香港南區香港仔巴士總站行人隧道對出行人路",
+        "cdescription": null,
+        "cname": "回收機構及收集點： 綠在田灣回收流動點 - 007",
+        "eaddress": "The Pavement outside Aberdeen Bus Terminus near Subway, Southern, Hong Kong",
+        "easting": 834083.24087029,
+        "edescription": null,
+        "ename": "Recycling Organisations and Collection Points: GREEN@TIN WAN Recycling Spot - 007",
+        "faciType": "DO_NGO",
+        "id": "990385650",
+        "nameStatus": "E",
+        "northing": 812059.09881035,
+        "score": 18.715686798095703,
+        "type": "F"
+    },
+    {
+        "caddress": "旺角彌敦道及弼街交匯處行人隧道外",
+        "cdescription": null,
+        "cname": "已登記的WiFi 熱點: 香港電話有限公司 (APID 07217)",
+        "eaddress": "Subway, near conjunction of Bute Street / Nathan Road, Mong Kok",
+        "easting": 835411.01155628,
+        "edescription": null,
+        "ename": "Registered WiFi Access Points: PCCW-HKT Telephone Limited (APID 07217)",
+        "faciType": "WIFI",
+        "id": "990266780",
+        "nameStatus": "E",
+        "northing": 820326.74645534,
+        "score": 10.47156810760498,
+        "type": "F"
+    },
+    {
+        "caddress": "牛頭角彩虹道及寧遠街交匯處",
+        "cdescription": null,
+        "cname": "已登記的WiFi 熱點: 香港電話有限公司 (APID 07474)",
+        "eaddress": "Block Conjuction of, Choi Hung Road / Ning Yuen Street Subway, Ngau Tau Kok, Kwun Tong",
+        "easting": 838181.46609204,
+        "edescription": null,
+        "ename": "Registered WiFi Access Points: PCCW-HKT Telephone Limited (APID 07474)",
+        "faciType": "WIFI",
+        "id": "990267294",
+        "nameStatus": "E",
+        "northing": 821634.57431737,
+        "score": 8.070342063903809,
+        "type": "F"
+    }
+]

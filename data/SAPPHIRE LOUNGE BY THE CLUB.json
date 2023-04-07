@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "新界大埔山塘路8號天鑽LG1",
+        "cdescription": null,
+        "cname": "天鑽會所",
+        "eaddress": "LG1(Portion), The Regent, 8 Shan Tong Road, Tai Po, New Territories",
+        "easting": 835306.00475473,
+        "edescription": null,
+        "ename": "THE CLUB REGENT",
+        "faciType": "CLUB",
+        "id": "990401749",
+        "nameStatus": "E",
+        "northing": 833261.28067388,
+        "score": 71.02275085449219,
+        "type": "F"
+    },
+    {
+        "caddress": "新界屯門震寰路82號",
+        "cdescription": null,
+        "cname": "香港聖公會福利協會樂喜聚",
+        "eaddress": "82 Tsun Wen Road, Tuen Mun, N.T.",
+        "easting": 814894.2,
+        "edescription": null,
+        "ename": "Hong Kong Sheng Kung Hui Welfare Council The Club",
+        "faciType": "ICCMW",
+        "id": "99078545",
+        "nameStatus": "E",
+        "northing": 829927.6,
+        "score": 13.567705154418945,
+        "type": "F"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "",
+        "cdescription": null,
+        "cname": "梅窩酒店",
+        "eaddress": "",
+        "easting": 818030.0,
+        "edescription": null,
+        "ename": "Mui Wo Holiday Inn",
+        "faciType": null,
+        "id": "1103049332",
+        "nameStatus": "E",
+        "northing": 814777.0,
+        "score": 25833.166015625,
+        "type": "B"
+    },
+    {
+        "caddress": "大嶼山梅窩銀礦灣第2約648號地段",
+        "cdescription": null,
+        "cname": "銀鑛灣渡假酒店",
+        "eaddress": "M.W. DD2 Lot 648,Silvermine Bay,Mui Wo, Lantau Island.",
+        "easting": 817838.7,
+        "edescription": null,
+        "ename": "SILVERMINE BEACH RESORT",
+        "faciType": "LLHG",
+        "id": "99079887",
+        "nameStatus": "E",
+        "northing": 814371.3,
+        "score": 85.0381088256836,
+        "type": "F"
+    }
+]

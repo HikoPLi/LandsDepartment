@@ -1,0 +1,17 @@
+[
+    {
+        "caddress": "",
+        "cdescription": null,
+        "cname": "香港",
+        "eaddress": "",
+        "easting": 834346.0,
+        "edescription": null,
+        "ename": "Hong Kong",
+        "faciType": null,
+        "id": "550143",
+        "nameStatus": "E",
+        "northing": 816198.0,
+        "score": 6939.4853515625,
+        "type": "PL"
+    }
+]

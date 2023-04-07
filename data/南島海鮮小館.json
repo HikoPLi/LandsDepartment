@@ -1,0 +1,47 @@
+[
+    {
+        "caddress": "南風道   50號",
+        "cdescription": null,
+        "cname": "南島中學",
+        "eaddress": "50 NAM FUNG ROAD  ",
+        "easting": 836913.0,
+        "edescription": null,
+        "ename": "South Island School",
+        "faciType": null,
+        "id": "1503015598",
+        "nameStatus": "E",
+        "northing": 812793.0,
+        "score": 46.88773727416992,
+        "type": "S"
+    },
+    {
+        "caddress": "文咸東街   128-130號|皇后大道中   359-361號",
+        "cdescription": null,
+        "cname": "南島商業大廈",
+        "eaddress": "128-130 BONHAM STRAND|359-361 QUEEN'S ROAD CENTRAL",
+        "easting": 833438.0,
+        "edescription": null,
+        "ename": "Nan Dao Commercial Building",
+        "faciType": null,
+        "id": "1103122133",
+        "nameStatus": "E",
+        "northing": 816375.0,
+        "score": 41.333316802978516,
+        "type": "B"
+    },
+    {
+        "caddress": "香港上環皇后大道中359-361號南島商業大廈地下",
+        "cdescription": null,
+        "cname": "U select food-上環南島商業大廈分店",
+        "eaddress": "G/F, Nan Dao Commercial Building, Nos. 359 &amp; 361 Queen&#039;s Road Central, Sheung Wan, H.K. ",
+        "easting": 833433.185,
+        "edescription": null,
+        "ename": "U select food-Nan Dao Commercial Building Store ",
+        "faciType": "SMK",
+        "id": "21094006",
+        "nameStatus": "E",
+        "northing": 816368.346,
+        "score": 17.257219314575195,
+        "type": "F"
+    }
+]

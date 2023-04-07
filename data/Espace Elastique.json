@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "大嶼山大澳吉慶街57號1字樓",
+        "cdescription": null,
+        "cname": "歸田園居",
+        "eaddress": "1/F, 57 Kat Hing Street, Tai O, Lantau Island.",
+        "easting": 803898.51950418,
+        "edescription": null,
+        "ename": "ESPACE ELASTIQUE",
+        "faciType": "LLHG",
+        "id": "990115988",
+        "nameStatus": "E",
+        "northing": 812926.06473721,
+        "score": 28202.56640625,
+        "type": "F"
+    },
+    {
+        "caddress": "大嶼山大澳吉慶街57號2字樓",
+        "cdescription": null,
+        "cname": "歸田園居",
+        "eaddress": "2/F, 57 Kat Hing Street,Tai O, Lantau Island.",
+        "easting": 803901.3,
+        "edescription": null,
+        "ename": "ESPACE ELASTIQUE",
+        "faciType": "LLHG",
+        "id": "99079139",
+        "nameStatus": "E",
+        "northing": 812922.4,
+        "score": 28202.56640625,
+        "type": "F"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "caddress": "土瓜灣長寧街49號地下",
+        "cdescription": null,
+        "cname": "駿意工程有限公司",
+        "eaddress": "G/F, No. 49, Cheung Ning Street, To Kwa Wan",
+        "easting": 837608.24626851,
+        "edescription": null,
+        "ename": "ITALIAN HANDS ENGINEERING COMPANY LIMITED",
+        "faciType": "RVMW",
+        "id": "990150300",
+        "nameStatus": "E",
+        "northing": 819860.58571046,
+        "score": 41.38422775268555,
+        "type": "F"
+    },
+    {
+        "caddress": "香港鴨脷洲海怡半島第1期第4座平台第1層",
+        "cdescription": null,
+        "cname": "意大利國際幼稚園",
+        "eaddress": "PODIUM LEVEL 1, BLOCK 4, PHASE 1, SOUTH HORIZONS, AP LEI CHAU, HONG KONG",
+        "easting": 833279.0,
+        "edescription": null,
+        "ename": "ITALIAN INTERNATIONAL KINDERGARTEN",
+        "faciType": "KG_CCC",
+        "id": "990318852",
+        "nameStatus": "E",
+        "northing": 811817.0,
+        "score": 19.701133728027344,
+        "type": "F"
+    },
+    {
+        "caddress": "香港鴨脷洲海怡半島第1期第4座平台第1層",
+        "cdescription": null,
+        "cname": "意大利國際幼稚園",
+        "eaddress": "PODIUM LEVEL 1, BLOCK 4, PHASE 1, SOUTH HORIZONS, AP LEI CHAU, HONG KONG",
+        "easting": 833279.0,
+        "edescription": null,
+        "ename": "ITALIAN INTERNATIONAL KINDERGARTEN",
+        "faciType": "KG_CCC",
+        "id": "990318854",
+        "nameStatus": "E",
+        "northing": 811817.0,
+        "score": 19.701133728027344,
+        "type": "F"
+    },
+    {
+        "caddress": "香港鴨脷洲海怡半島第1期第4座平台第1層",
+        "cdescription": null,
+        "cname": "意大利國際幼稚園",
+        "eaddress": "PODIUM LEVEL 1, BLOCK 4, PHASE 1, SOUTH HORIZONS, AP LEI CHAU, HONG KONG",
+        "easting": 833279.0,
+        "edescription": null,
+        "ename": "ITALIAN INTERNATIONAL KINDERGARTEN",
+        "faciType": "KG_CCC",
+        "id": "990318856",
+        "nameStatus": "E",
+        "northing": 811817.0,
+        "score": 19.701133728027344,
+        "type": "F"
+    }
+]

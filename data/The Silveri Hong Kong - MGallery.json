@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "大嶼山東涌達東路16號地庫2字樓(部份),地庫1字樓(部份), 地下(部份),1-9字樓(部份),10-12字樓(部份),15字樓(部份), 天台(部份)及天台高層",
+        "cdescription": null,
+        "cname": "THE SILVERI HONG KONG - MGALLERY",
+        "eaddress": "B2/F(Portion), B1(Portion), G/F(Portion), L1(Portion)-L9(Portion),L10(Portion)-L12(Portion), L15(Portion), Roof(Portion) and Top Roof, 16 Tat Tung Road, Tung Chung, Lantau Island.",
+        "easting": 812094.93966457,
+        "edescription": null,
+        "ename": "THE SILVERI HONG KONG - MGALLERY",
+        "faciType": "LLHG",
+        "id": "990290430",
+        "nameStatus": "E",
+        "northing": 816922.656885,
+        "score": 28098.08984375,
+        "type": "F"
+    },
+    {
+        "caddress": "達東路   16號",
+        "cdescription": null,
+        "cname": "香港銀樾美憬閣精選酒店 (別稱)",
+        "eaddress": "16 TAT TUNG ROAD  ",
+        "easting": 811859.0,
+        "edescription": "The Silveri (Current Name)",
+        "ename": "The Silveri Hong Kong - Mgallery (Other Name)",
+        "faciType": null,
+        "id": "1810189001",
+        "nameStatus": "O",
+        "northing": 816845.0,
+        "score": 11239.236328125,
+        "type": "B"
+    }
+]

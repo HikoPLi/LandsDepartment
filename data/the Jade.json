@@ -1,0 +1,32 @@
+[
+    {
+        "caddress": "九龍長沙灣青山道700號時運中心1602-1603室",
+        "cdescription": null,
+        "cname": "尊賢會",
+        "eaddress": "Room 1602-1603, Charm Centre, 700 Castle Peak Road, Cheung Sha Wan, KLN",
+        "easting": 833053.07711412,
+        "edescription": null,
+        "ename": "The Jade Club",
+        "faciType": "SE",
+        "id": "990147332",
+        "nameStatus": "E",
+        "northing": 822081.73826284,
+        "score": 544.6982421875,
+        "type": "F"
+    },
+    {
+        "caddress": "廣東道   513號",
+        "cdescription": null,
+        "cname": "玉器交易廣場",
+        "eaddress": "513 CANTON ROAD  ",
+        "easting": 835345.0,
+        "edescription": null,
+        "ename": "The Jade Plaza",
+        "faciType": null,
+        "id": "1108241525",
+        "nameStatus": "E",
+        "northing": 818590.0,
+        "score": 544.6982421875,
+        "type": "B"
+    }
+]

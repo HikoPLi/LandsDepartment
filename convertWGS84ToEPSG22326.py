@@ -1,3 +1,3 @@
 
-def convert(east, north):
-    location = (f"{east}, {north}")
+def convert(string_address):
+    location = (f"{string_address}")

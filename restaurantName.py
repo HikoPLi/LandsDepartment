@@ -17,6 +17,8 @@ def findNmaeInJSON(JSONfile):
                 restaurantName = restaurantName.replace("/", " ")
                 restaurantName = restaurantName.replace("%", " ")
                 restaurantName = restaurantName.replace("!", " ")
+                restaurantName = restaurantName.replace(")", " ")
+                restaurantName = restaurantName.replace("(", " ")
                 print(restaurantName)
                 APIrequest.requestAPI(restaurantName)
                 fetchLocationFromJSON.convert_address_to_WGS84(restaurantName)
@@ -25,6 +27,9 @@ def findNmaeInJSON(JSONfile):
                 parentDir = os.path.dirname(currentDir)
                 os.chdir(parentDir)
         i = i + 1
+
+        if i == resturantAmount:
+            break
 
         return restaurantName
 

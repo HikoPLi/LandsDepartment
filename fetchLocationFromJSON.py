@@ -10,19 +10,25 @@ def findAll(jsonFile):
 
     i = 0
     while i < resultAmount:
+
         englishName = jsonObject[i]['ename']
         chineseName = jsonObject[i]['cname']
         east = jsonObject[i]['easting']
         north = jsonObject[i]['northing']
-        string_address = f"{east},{north}"
+        string_address = f"east:{east}, north:{north}"
+
         i = i + 1
 
         print(string_address, englishName, chineseName)
 
+        with open(f"data.csv", "a") as output:
+            output.write("\n")
+            output.write(f"{string_address}, {englishName}, {chineseName}")
+
         if i == resultAmount:
             break
 
-    convertWGS84ToEPSG22326.convert(east, north)
+    # convertWGS84ToEPSG22326.convert(string_address)
 
 
 def convert_address_to_WGS84(keyword):

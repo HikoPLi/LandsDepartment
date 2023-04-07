@@ -1,0 +1,17 @@
+[
+    {
+        "caddress": "銅鑼灣記利佐治街25-29號珠城大廈",
+        "cdescription": null,
+        "cname": "已登記的WiFi 熱點: Hong Kong Telecommunications (HKT) Limited (APID 05819)",
+        "eaddress": "2/F, Block Outback Steakhouse, Block A, Pearl City Mansion, 22-36 Paterson St, Causeway Bay",
+        "easting": 837169.0,
+        "edescription": null,
+        "ename": "Registered WiFi Access Points: Hong Kong Telecommunications (HKT) Limited (APID 05819)",
+        "faciType": "WIFI",
+        "id": "990263956",
+        "nameStatus": "E",
+        "northing": 815778.0,
+        "score": 17.372314453125,
+        "type": "F"
+    }
+]
