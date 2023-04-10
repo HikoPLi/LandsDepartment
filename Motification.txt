@@ -1,23 +1,31 @@
 April 4, 2023:
+
     Create main.py and call API successfully.
     Use downloadXMLfromWeb.download to download the .xml file on the website.
 
 April 5, 2023:
+
     Use APIrequest.saveData to save data as JSON files.
     Use fetchLocationFromJSON.location and .findall to find keywords in the JSON file.
 
 April 6, 2023:
+
     Fix bugs, including:
         Complex symbols
+
     Functions: 
         restaurantName = restaurantName.replace("/", " ")
         restaurantName = restaurantName.replace("%", " ")
         restaurant Name = restaurant Name.replace("!", " ")
+                    and so on...
 
 April 7, 2023:
+
     Test and find bugs.
+
     Problems:
         Network.
+
         The error of "return":
         
             UnboundLocalError: local variable 'east' referenced before assignment.
@@ -28,5 +36,31 @@ April 7, 2023:
 
     Add:
     if lp["DIST"] == "17":  # "17" is district code
-    # -> New Restrictions (District code)
+        # -> New Restrictions (District code)
 
+April 10, 2023:
+
+    Fix the problem of showing " " as a name.
+
+    Use convertWGS84ToEPSG22326 to convert WSG84 to EPSG22326. The basic API is following:
+    API = "http://www.geodetic.gov.hk/transform/v2/?inSys=hkgrid&e={Wast}&n={North}"
+    "East" and "North" are both variables in WGS84 format.
+
+    EPSG22326 format example:
+    {'wgsLat': 22.352766654, 'wgsLong': 114.12452499, 'hkLat': 22.3542954, 'hkLong': 114.122071649, 'utmGridZone': '50Q', 'utmGridE': 203841, 'utmGridN': 2474702, 'utmRefZone': '50Q-KK', 'utmRefE': '038', 'utmRefN': '747'}, Ever Gain Plaza, 永得利廣場
+
+    Delete the useless elements by using:
+
+        if data["DATA"]["LPS"]["LP"] != " no record found":
+            if data["DATA"]["LPS"]["LP"] != "--":
+                if data["DATA"]["LPS"]["LP"] != "":
+
+    Add rewrite process in main() to rewrite "data.json" in "../LandsDepartment/data".
+
+    Automatically open results by using os. systems():
+        os.system("cd data/")
+        os.system("open data.json")
+
+    Add a timeout section in fetchLocationFromJSON.py.
+        # ⬆⬆ Function for a timeout. Reference from CSDN.
+        # https://blog.csdn.net/weixin_42368421/article/details/101354628   

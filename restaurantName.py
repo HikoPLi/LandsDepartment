@@ -16,20 +16,28 @@ def findNmaeInJSON(JSONfile):
                 if data["DATA"]["LPS"]["LP"] != " no record found":
                     if data["DATA"]["LPS"]["LP"] != "--":
                         if data["DATA"]["LPS"]["LP"] != "":
-                            restaurantName = lp["SS"]
-                            restaurantName = restaurantName.replace("/", " ")
-                            restaurantName = restaurantName.replace("%", " ")
-                            restaurantName = restaurantName.replace("!", " ")
-                            restaurantName = restaurantName.replace(")", " ")
-                            restaurantName = restaurantName.replace("(", " ")
-                            print(restaurantName)
-                            APIrequest.requestAPI(restaurantName)
-                            fetchLocationFromJSON.convert_address_to_WGS84(
-                                restaurantName)
+                            if data["DATA"]["LPS"]["LP"] != "- -":
+                                restaurantName = lp["SS"]
+                                restaurantName = restaurantName.replace(
+                                    "/", " ")
+                                restaurantName = restaurantName.replace(
+                                    "%", " ")
+                                restaurantName = restaurantName.replace(
+                                    "!", " ")
+                                restaurantName = restaurantName.replace(
+                                    ")", " ")
+                                restaurantName = restaurantName.replace(
+                                    "(", " ")
+                                restaurantName = restaurantName.replace(
+                                    "&", " ")
+                                print(restaurantName)
+                                APIrequest.requestAPI(restaurantName)
+                                fetchLocationFromJSON.convert_address_to_WGS84(
+                                    restaurantName)
 
-                            currentDir = os.path.abspath(".")
-                            parentDir = os.path.dirname(currentDir)
-                            os.chdir(parentDir)
+                                currentDir = os.path.abspath(".")
+                                parentDir = os.path.dirname(currentDir)
+                                os.chdir(parentDir)
         i = i + 1
 
         if i == resturantAmount:
