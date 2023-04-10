@@ -15,7 +15,7 @@ def saveData(keyword, fetchData):
     data = json.dumps(fetchData, ensure_ascii=False, sort_keys=True, indent=4)
 
     os.chdir("../LandsDepartment/data")
-    with open(f"{keyword}.json", "a") as output:
+    with open(f"{keyword}.json", "w") as output:
         output.write(data)
 
 

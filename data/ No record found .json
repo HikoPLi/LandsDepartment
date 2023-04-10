@@ -1,5 +1,20 @@
 [
     {
+        "caddress": "謝斐道   488號",
+        "cdescription": null,
+        "cname": "匯創大廈",
+        "eaddress": "488 JAFFE ROAD  ",
+        "easting": 836896.0,
+        "edescription": null,
+        "ename": "Well-Found Building",
+        "faciType": null,
+        "id": "1103126414",
+        "nameStatus": "E",
+        "northing": 815783.0,
+        "score": 54.56855010986328,
+        "type": "B"
+    },
+    {
         "caddress": "伊利沙伯醫院",
         "cdescription": null,
         "cname": "病歷檔案部大樓",
@@ -733,20 +748,5 @@
         "northing": 815883.0,
         "score": 17.63903045654297,
         "type": "S"
-    },
-    {
-        "caddress": "甲龍 石崗燒烤場地3號",
-        "cdescription": null,
-        "cname": "廁所(甲龍 石崗燒烤場地3號)",
-        "eaddress": "Shek Kong Barbecue Site No. 3, Kap Lung",
-        "easting": 828774.56625,
-        "edescription": null,
-        "ename": "Toilet (Shek Kong Barbecue Site No. 3, Kap Lung)",
-        "faciType": "CTRY_TOI",
-        "id": "990235954",
-        "nameStatus": "E",
-        "northing": 831486.89365,
-        "score": 16.765052795410156,
-        "type": "F"
     }
 ]

@@ -1,4 +1,6 @@
 import restaurantName
+import time
+import math
 # import downloadXMLfromWeb
 
 
@@ -8,4 +10,8 @@ def main():
     # downloadXMLfromWeb.download(True)
 
 
-main()
+if "_name_" == "_name_":
+    startTime = time.time()
+    main()
+    endTime = time.time()
+    print("used time is {} s".format(math.ceil(endTime - startTime)))
