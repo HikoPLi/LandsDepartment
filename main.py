@@ -31,5 +31,4 @@ if "_name_" == "_name_":
 
     print("used time is {} s".format(math.ceil(endTime - startTime)))
 
-    os.system("cd data/")
     os.system("open data.json")
